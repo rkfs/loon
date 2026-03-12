@@ -3230,6 +3230,7 @@ DOMAIN-SUFFIX,embed-ssl.wistia.com
 DOMAIN-SUFFIX,embed-cloudfront.wistia.com
 DOMAIN-SUFFIX,showrunner.xyz
 DOMAIN-SUFFIX,suricata.io
+DOMAIN-SUFFIX,openinfosecfoundation.org
 DOMAIN-SUFFIX,video.wixstatic.com
 DOMAIN-SUFFIX,static.wixstatic.com
 DOMAIN-SUFFIX,panorama.wixapps.net
