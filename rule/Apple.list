@@ -128,7 +128,8 @@ DOMAIN-SUFFIX,pcc.apple.com
 DOMAIN-SUFFIX,pcc-cdn.apple.com
 DOMAIN-SUFFIX,pcc-support.apple.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud-content.com Apple iCloud 内容分发服务域名
+DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud-edge.apple.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,api.icloud.com
