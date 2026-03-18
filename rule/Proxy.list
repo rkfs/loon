@@ -1576,6 +1576,7 @@ DOMAIN-SUFFIX,secure.tumblr.com
 DOMAIN-SUFFIX,va.tumblr.com
 DOMAIN-SUFFIX,assets.tumblr.com
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,auth.wikimedia.org
 DOMAIN-SUFFIX,upload.wikimedia.org
 DOMAIN-SUFFIX,meta.wikimedia.org
 DOMAIN-SUFFIX,commons.wikimedia.org
