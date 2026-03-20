@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,main.vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,code.visualstudio.com
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,cdn.vsassets.io
 DOMAIN-SUFFIX,api.cognitive.microsoft.com
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,api.translate.microsoft.com
@@ -82,6 +83,7 @@ DOMAIN-SUFFIX,powerbi.com
 DOMAIN-SUFFIX,login.live.com
 DOMAIN-SUFFIX,login.windows.net
 DOMAIN-SUFFIX,sts.windows.net
+DOMAIN-SUFFIX,static2.sharepointonline.com
 DOMAIN-SUFFIX,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,vortex.data.microsoft.com
 IP-CIDR,13.107.6.152/31

@@ -578,3 +578,7 @@ DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,collector-cdn.github.com
 DOMAIN-SUFFIX,events.claude.ai
 DOMAIN-SUFFIX,intake-analytics.wikimedia.org
+DOMAIN-SUFFIX,pencildev-new.goatcounter.com
+DOMAIN-SUFFIX,stats.jpush.cn
+DOMAIN-SUFFIX,ali-stats.jpush.cn
+DOMAIN-SUFFIX,user-ipv6.jpush.cn
