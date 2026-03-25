@@ -48,6 +48,7 @@ IP-CIDR6,2c0f:f248::/32
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,speed.misaka.one
 DOMAIN-SUFFIX,cdn.ziffstatic.com
 DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,raxcdn.com
