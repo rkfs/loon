@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,persistent.oaistatic.com
 DOMAIN-SUFFIX,openaiusercontent.com
 DOMAIN-SUFFIX,docs.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,openaipublic.blob.core.windows.net
 IP-CIDR,4.151.71.176/28
 IP-CIDR,4.151.119.48/28
 IP-CIDR,4.189.118.208/28

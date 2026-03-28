@@ -51,48 +51,24 @@ DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,speed.misaka.one
 DOMAIN-SUFFIX,cdn.ziffstatic.com
 DOMAIN-SUFFIX,openspeedtest.com
-DOMAIN-SUFFIX,raxcdn.com
 DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,cdn.cookielaw.org
-DOMAIN-SUFFIX,pg.ziffstatic.com
 DOMAIN-SUFFIX,mtu1280.losangeles.test-ipv6.com
 DOMAIN-SUFFIX,ipv6.losangeles.test-ipv6.com
 DOMAIN-SUFFIX,ds.v6ns.losangeles.test-ipv6.com
 DOMAIN-SUFFIX,ipv6.lookup.test-ipv6.com
-DOMAIN-SUFFIX,500px.com
-DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,expedia.de
-DOMAIN-SUFFIX,de.foursquare.com
-DOMAIN-SUFFIX,academia.edu
-DOMAIN-SUFFIX,secure.meetup.com
-DOMAIN-SUFFIX,academia.edu
-DOMAIN-SUFFIX,a.academia-assets.com
-DOMAIN-SUFFIX,secure.academia.edu
-DOMAIN-SUFFIX,a.academia-assets.com
-DOMAIN-SUFFIX,0.academia-photos.com
-IP-CIDR,65.8.76.64/32
-IP-CIDR,65.8.76.121/32
-DOMAIN-SUFFIX,itdog.cn
-DOMAIN-SUFFIX,3ue.com 
-DOMAIN-SUFFIX,dash.3ue.com 
-DOMAIN-SUFFIX,e-kc.vip
-DOMAIN-SUFFIX,inspection.e-kc.vip
-DOMAIN-SUFFIX,gstaticcnapps.cn
-DOMAIN-SUFFIX,fiber.google.com
-DOMAIN-SUFFIX,gigabit.google.com
-DOMAIN-SUFFIX,fiberstatus.com
-DOMAIN-SUFFIX,gfiber.com
-DOMAIN-SUFFIX,gfiber.tv
-DOMAIN-SUFFIX,gfiber.speedtestcustom.com
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN-SUFFIX,c.speedtestcustom.com
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,api.fast.com
-DOMAIN-SUFFIX,logos.speedtestcustom.com
+DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-SUFFIX,api.scamalytics.com
 DOMAIN-SUFFIX,cdn.scamalytics.com
+DOMAIN-SUFFIX,scamalytics.com
+DOMAIN-SUFFIX,api.scamalytics.com
+DOMAIN-SUFFIX,cdn.scamalytics.com
+DOMAIN-SUFFIX,academia.edu
+DOMAIN-SUFFIX,a.academia-assets.com
+DOMAIN-SUFFIX,secure.academia.edu
+DOMAIN-SUFFIX,0.academia-photos.com
+IP-CIDR,65.8.76.64/32
+IP-CIDR,65.8.76.121/32
 DOMAIN-SUFFIX,kaspersky.com
 DOMAIN-SUFFIX,kaspersky.com.cn
 DOMAIN-SUFFIX,kaspersky-labs.com
@@ -114,7 +90,6 @@ DOMAIN-SUFFIX,activation-v2.kaspersky.com
 DOMAIN-SUFFIX,screenshots-v2.kaspersky.com
 DOMAIN-SUFFIX,drweb.com
 DOMAIN-SUFFIX,update.geo.drweb.com
-DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,drweb.cn
 DOMAIN-SUFFIX,forum.drweb.com
 IP-CIDR,95.216.203.236/32
@@ -125,27 +100,18 @@ IP-CIDR,3.5.138.170/32
 IP-CIDR,3.5.139.23/32
 IP-CIDR,52.219.75.79/32
 IP-CIDR,52.219.169.1/32
-DOMAIN-SUFFIX,amz123.com
-DOMAIN-SUFFIX,cdn.amz123.com
-DOMAIN-SUFFIX,api.amz123.com
-DOMAIN-SUFFIX,tool.amz123.com
-DOMAIN-SUFFIX,forum.amz123.com
-DOMAIN-SUFFIX,api.subs.ee // 常见订阅转换服务平台
-DOMAIN-SUFFIX,subconverter // Sub-Converter 节点格式转换工具
-DOMAIN-SUFFIX,sub-web.netlify.app // Sub-Web 可视化订阅前端
-DOMAIN-SUFFIX,sub-web.vercel.app // Sub-Web 部署版本（Vercel）
-DOMAIN-SUFFIX,sub.pmsub.me // PMSUB 节点订阅服务
-DOMAIN-SUFFIX,cfmem.com // cfmem.com 节点分发平台
-DOMAIN-SUFFIX,nexitally.com // Nexitally 节点/订阅服务平台
-DOMAIN-SUFFIX,getoutline.org // Outline VPN 官方域名
-DOMAIN-SUFFIX,surfshark.com // Surfshark VPN 官网
-DOMAIN-SUFFIX,nordvpn.com // NordVPN 官网与服务接口
-DOMAIN-SUFFIX,expressvpn.com // ExpressVPN 官网
-DOMAIN-SUFFIX,privateinternetaccess.com // PIA VPN 提供商
-DOMAIN-SUFFIX,relay.firefox.com // Firefox Relay 服务（匿名邮箱与中转）
-DOMAIN-SUFFIX,cloudcone.com // CloudCone VPS 提供商
-DOMAIN-SUFFIX,cloudways.com // Cloudways 云平台，部分代理部署平台
-DOMAIN-SUFFIX,v2rayssr.com // v2ray+ssr 综合配置下载站
+DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,privateinternetaccess.com
+DOMAIN-SUFFIX,api.subs.ee
+DOMAIN-SUFFIX,sub-web.netlify.app
+DOMAIN-SUFFIX,sub-web.vercel.app
+DOMAIN-SUFFIX,sub.pmsub.me
+DOMAIN-SUFFIX,cfmem.com
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,VK6kTpJBIO.solastme.cc
 DOMAIN-SUFFIX,vk6tpjbio.solastme.cc
 DOMAIN-SUFFIX,fba02.fbsubcn01.cc
@@ -155,19 +121,20 @@ DOMAIN-SUFFIX,lk01.fbsubcn01.pro
 DOMAIN-SUFFIX,aff01.fyb-aff01.com
 DOMAIN-SUFFIX,fbweb02.flyingbird.la
 DOMAIN-SUFFIX,fbweb03.flyingbird.id
+DOMAIN-SUFFIX,fbwebid06.fbwebid01.cc
+DOMAIN-SUFFIX,fbwebc01.cc
 DOMAIN-SUFFIX,w01.fbweb.cc
 DOMAIN-SUFFIX,fbsubcn01.pro
 DOMAIN-SUFFIX,fbsubcn01.cc
+DOMAIN-SUFFIX,fbweb.cc
 DOMAIN-SUFFIX,dexi009.com
 DOMAIN-SUFFIX,aks.xm002.com
 DOMAIN-SUFFIX,bygcloud.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,platform.openai.com
-DOMAIN-SUFFIX,auth0.openai.com
-DOMAIN-SUFFIX,openaipublic.blob.core.windows.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,amz123.com
+DOMAIN-SUFFIX,cdn.amz123.com
+DOMAIN-SUFFIX,api.amz123.com
+DOMAIN-SUFFIX,tool.amz123.com
+DOMAIN-SUFFIX,forum.amz123.com
 DOMAIN-SUFFIX,kfc.com
 DOMAIN-SUFFIX,kfc.co.uk
 DOMAIN-SUFFIX,kfc.ca
@@ -216,7 +183,6 @@ DOMAIN-SUFFIX,lf9-capcut.faceulv.com
 DOMAIN-SUFFIX,static.capcut.net
 DOMAIN-SUFFIX,ugcapcut.com
 DOMAIN-SUFFIX,v-cdn.capcut.com
-IP-CIDR,161.117.0.0/16
 DOMAIN-SUFFIX,uber.com
 DOMAIN-SUFFIX,uberstatic.com
 DOMAIN-SUFFIX,maps.uberinternal.com
@@ -229,7 +195,6 @@ DOMAIN-SUFFIX,safety.uber.com
 DOMAIN-SUFFIX,delivery.uber.com
 DOMAIN-SUFFIX,ubereats.com
 DOMAIN-SUFFIX,cdn.uber.com
-IP-CIDR,143.204.0.0/16
 DOMAIN-SUFFIX,lemon8-app.com
 DOMAIN-SUFFIX,api.lemon8-app.com
 DOMAIN-SUFFIX,web.lemon8-app.com
@@ -251,7 +216,6 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,byteoversea.com
-IP-CIDR,161.117.0.0/16
 DOMAIN-SUFFIX,vcs-s.byteintlapi.com
 DOMAIN-SUFFIX,p16-flow-sign-sg.ibyteimg.com
 DOMAIN-SUFFIX,lf-rc1.yhgfb-static.com
