@@ -98,12 +98,6 @@ DOMAIN-SUFFIX,e.koubei.com
 DOMAIN-SUFFIX,agw.koubei.com
 DOMAIN-SUFFIX,v.koubei.com
 DOMAIN-SUFFIX,i.antfin.com
-IP-CIDR,223.5.5.5/32
-IP-CIDR,223.6.6.6/32
-IP-CIDR6,2400:3200::1/128
-IP-CIDR6,2400:3200:baba::1/128
-IP-CIDR,119.29.29.90/32
-IP-CIDR,119.29.29.98/32
 DOMAIN-SUFFIX,cloud.tencent.com
 DOMAIN-SUFFIX,cloud.tencent.cn
 DOMAIN-SUFFIX,tencentcloud.com
@@ -118,7 +112,6 @@ DOMAIN-SUFFIX,dscache.tencent-cloud.cn
 DOMAIN-SUFFIX,dscache.tencent-cloud.com
 DOMAIN-SUFFIX,datacenter.live.qcloud.com
 DOMAIN-SUFFIX,playvideo.qcloud.com
-DOMAIN-SUFFIX,dnspod.cn
 DOMAIN-SUFFIX,mail.qq.com
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,mywebmail.mail.qq.com
@@ -156,7 +149,6 @@ DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,sngapm.qq.com
 DOMAIN-SUFFIX,connect.qq.com
-DOMAIN-SUFFIX,ovscdns.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,icq.com
 DOMAIN-SUFFIX,privacy.qq.com
@@ -961,7 +953,6 @@ DOMAIN-SUFFIX,ac.dun.163yun.com
 DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,nstool.laiqukankan.com
 DOMAIN-SUFFIX,yunxinfw.com
-DOMAIN-SUFFIX,httpdns.yunxinfw.com
 DOMAIN-SUFFIX,game.163.com
 DOMAIN-SUFFIX,timejs.game.163.com
 DOMAIN-SUFFIX,wisdomir.com
