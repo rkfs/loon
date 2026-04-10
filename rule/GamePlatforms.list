@@ -31,6 +31,14 @@ IP-CIDR,180.127.11.186/32
 DOMAIN-SUFFIX,down.bdy.tcdnos.com
 DOMAIN-SUFFIX,down.bytes.tcdnos.com
 IP-CIDR,180.105.204.17/32
+DOMAIN-SUFFIX,dir.500638030-2-1.gcloudsvcs.com
+DOMAIN-SUFFIX,puffer.500638030-11-1.gcloudsvcs.com
+DOMAIN-SUFFIX,df-gcloud.ajy.tcdnos.com
+DOMAIN-SUFFIX,df-gcloud.csysw.tcdnos.com
+DOMAIN-SUFFIX,df-gcloud.bdy.tcdnos.com
+DOMAIN-SUFFIX,df-gcloud.bytes.tcdnos.com
+DOMAIN-SUFFIX,df-gcloud.ajy.tcdnos.com
+DOMAIN-SUFFIX,df-gcloud.bytes.tcdnos.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamusercontent.com
