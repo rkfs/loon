@@ -96,6 +96,11 @@ DOMAIN-SUFFIX,nq.apple.com
 DOMAIN-SUFFIX,init.ess.apple.com
 DOMAIN-SUFFIX,identity.ess.apple.com
 DOMAIN-SUFFIX,register.appattest.apple.com
+DOMAIN-SUFFIX,itools.info
+DOMAIN-SUFFIX,airport.us
+DOMAIN-SUFFIX,ibook.info
+DOMAIN-SUFFIX,appleiphonecell.com
+DOMAIN-SUFFIX,thinkdifferent.us
 DOMAIN-SUFFIX,diagnostics-edge.apple.com
 DOMAIN-SUFFIX,diagnostics-routing.apple.com
 DOMAIN-SUFFIX,diagnostics-dispatch.apple.com
