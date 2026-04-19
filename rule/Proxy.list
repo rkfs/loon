@@ -2,7 +2,6 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflarestatus.com
-DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,pages.dev
@@ -50,6 +49,7 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,speed.misaka.one
 DOMAIN-SUFFIX,cdn.ziffstatic.com
+DOMAIN-SUFFIX,speedtest.sjc.sonic.net
 DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,mtu1280.losangeles.test-ipv6.com
@@ -174,6 +174,9 @@ IP-CIDR,3.5.138.170/32
 IP-CIDR,3.5.139.23/32
 IP-CIDR,52.219.75.79/32
 IP-CIDR,52.219.169.1/32
+IP-CIDR,194.85.20.0/24
+IP-CIDR,195.88.252.0/24
+IP-CIDR,195.88.253.0/24
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,nordvpn.com
@@ -2570,6 +2573,7 @@ DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akadns.com
 DOMAIN-SUFFIX,akamaicloud.net
+DOMAIN-SUFFIX,qsearch-a.akamaihd.net
 DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,lf19-recruit-overseas-cdn-sg-sign.larksuite.com
 DOMAIN-SUFFIX,lf16-recruit-overseas-cdn-sg-sign.larksuite.com
@@ -3829,6 +3833,8 @@ DOMAIN-SUFFIX,ovscdns.com
 DOMAIN-SUFFIX,dnspod.cn
 IP-CIDR,119.29.29.90/32
 IP-CIDR,119.29.29.98/32
+DOMAIN-SUFFIX,open.cachefly.net
+DOMAIN-SUFFIX,ost-cdn2.scdn1.secure.raxcdn.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
