@@ -127,7 +127,6 @@ DOMAIN-SUFFIX,gigabit.google.com
 DOMAIN-SUFFIX,fiberstatus.com
 DOMAIN-SUFFIX,gfiber.com
 DOMAIN-SUFFIX,gfiber.speedtestcustom.com
-IP-ASN,15169
 IP-CIDR,74.125.0.0/16
 IP-CIDR,209.85.128.0/17
 IP-CIDR,8.8.4.0/24

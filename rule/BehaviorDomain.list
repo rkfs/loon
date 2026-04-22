@@ -259,3 +259,6 @@ DOMAIN-SUFFIX,stats.jpush.cn
 DOMAIN-SUFFIX,ali-stats.jpush.cn
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,sr-client-cfg.amplitude.com
+DOMAIN-SUFFIX,p11.techlab-cdn.com
+DOMAIN-SUFFIX,telemetry.transcend.io

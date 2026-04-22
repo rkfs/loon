@@ -183,7 +183,6 @@ DOMAIN-SUFFIX,files.claudeusercontent.com
 DOMAIN-SUFFIX,uploads.claudeusercontent.com
 IP-CIDR,160.79.104.0/21
 IP-CIDR6,2607:6bc0::/48
-IP-ASN,399358
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,trust.anthropic.com
 DOMAIN-SUFFIX,legal.anthropic.com

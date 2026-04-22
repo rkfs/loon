@@ -63,9 +63,6 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-SUFFIX,api.scamalytics.com
 DOMAIN-SUFFIX,cdn.scamalytics.com
-DOMAIN-SUFFIX,scamalytics.com
-DOMAIN-SUFFIX,api.scamalytics.com
-DOMAIN-SUFFIX,cdn.scamalytics.com
 DOMAIN-SUFFIX,academia.edu
 DOMAIN-SUFFIX,a.academia-assets.com
 DOMAIN-SUFFIX,secure.academia.edu
@@ -216,6 +213,7 @@ DOMAIN-SUFFIX,kfc.com.ph
 DOMAIN-SUFFIX,kfc.com.tw
 DOMAIN-SUFFIX,kfchk.com
 DOMAIN-SUFFIX,global.kfc.com
+DOMAIN-SUFFIX,kfcshop.com
 DOMAIN-SUFFIX,mcdonalds.com
 DOMAIN-SUFFIX,mcd.com
 DOMAIN-SUFFIX,mcdonalds.ca
@@ -311,9 +309,9 @@ DOMAIN-SUFFIX,amazon.ca
 DOMAIN-SUFFIX,amazon.fr
 DOMAIN-SUFFIX,amazon.it
 DOMAIN-SUFFIX,amazon.es
-IP-CIDR,176.32.103.0/24
 DOMAIN-SUFFIX,m.media-amazon.com
 DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,walmartimages.com
 DOMAIN-SUFFIX,walmart.ca
@@ -460,7 +458,6 @@ IP-CIDR,64.4.240.0/21
 IP-CIDR,66.211.160.0/19
 IP-CIDR,173.0.80.0/20
 IP-CIDR,91.243.72.0/22
-IP-ASN,17012
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,api.canva.com
 DOMAIN-SUFFIX,static.canva.com
