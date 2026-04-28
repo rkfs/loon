@@ -194,6 +194,7 @@ DOMAIN-SUFFIX,VK6kTpJBIO.solastme.cc
 DOMAIN-SUFFIX,vk6tpjbio.solastme.cc
 DOMAIN-SUFFIX,amz123.com
 DOMAIN-SUFFIX,cdn.amz123.com
+DOMAIN-SUFFIX,cdn.zfty.work
 DOMAIN-SUFFIX,api.amz123.com
 DOMAIN-SUFFIX,tool.amz123.com
 DOMAIN-SUFFIX,forum.amz123.com
@@ -308,9 +309,14 @@ DOMAIN-SUFFIX,amazon.ca
 DOMAIN-SUFFIX,amazon.fr
 DOMAIN-SUFFIX,amazon.it
 DOMAIN-SUFFIX,amazon.es
+DOMAIN-SUFFIX,amazon.com.mx
 DOMAIN-SUFFIX,m.media-amazon.com
+DOMAIN-SUFFIX,static.siege-amazon.com
 DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
+DOMAIN-SUFFIX,images-eu.ssl-images-amazon.com
+DOMAIN-SUFFIX,images-fe.ssl-images-amazon.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,walmartimages.com
 DOMAIN-SUFFIX,walmart.ca
