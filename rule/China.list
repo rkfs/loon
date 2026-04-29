@@ -1500,3 +1500,6 @@ DOMAIN-SUFFIX,v1.hitokoto.cn
 DOMAIN-SUFFIX,threatbook.cn
 DOMAIN-SUFFIX,gs.amazon.cn
 DOMAIN-SUFFIX,images-cn.ssl-images-amazon.cn
+DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com
+DOMAIN-SUFFIX,fls-cn.amazon.cn
+DOMAIN-SUFFIX,unagi.amazon.cn
