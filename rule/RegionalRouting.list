@@ -90,3 +90,4 @@ DOMAIN-SUFFIX,downloads.upd.kaspersky.com
 DOMAIN-SUFFIX,crl.kaspersky.com
 DOMAIN-SUFFIX,ocsp.kaspersky.com
 DOMAIN-SUFFIX,moebius.kaspersky-labs.com
+IP-CIDR,79.133.169.139/32
