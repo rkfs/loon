@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,sway.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,onecdn.static.microsoft
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,mem.gfx.ms
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,storage.live.com
