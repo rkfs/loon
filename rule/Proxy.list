@@ -2750,6 +2750,8 @@ DOMAIN-SUFFIX,privacyportal.osano.com
 DOMAIN-SUFFIX,dataprotection.com
 DOMAIN-SUFFIX,dsarhub.com
 DOMAIN-SUFFIX,gdprform.io
+DOMAIN-SUFFIX,awswaf.com
+DOMAIN-SUFFIX,edge.sdk.awswaf.com
 DOMAIN-SUFFIX,edge.captcha-sdk.awswaf.com
 DOMAIN-SUFFIX,token.awswaf.com
 DOMAIN-SUFFIX,aa91ab2ba082.3f34d406.us-west-1.token.awswaf.com
@@ -4153,6 +4155,10 @@ DOMAIN-SUFFIX,srht.site
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,huggingfaceusercontent.com
+DOMAIN-SUFFIX,fast.hf.co
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,betterstack.com
+DOMAIN-SUFFIX,betterstack.net
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
