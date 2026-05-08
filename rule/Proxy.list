@@ -712,7 +712,9 @@ DOMAIN-SUFFIX,sh.rustup.rs
 DOMAIN-SUFFIX,invite.slack.golangbridge.org
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,sea1.discourse-cdn.com
+DOMAIN-SUFFIX,yyz2.discourse-cdn.com
 DOMAIN-SUFFIX,masto.host
 DOMAIN-SUFFIX,cdn.masto.host
 DOMAIN-SUFFIX,hachyderm.io
@@ -725,12 +727,20 @@ DOMAIN-SUFFIX,media.springernature.com
 DOMAIN-SUFFIX,swiftype.com
 DOMAIN-SUFFIX,swiftypecdn.com
 DOMAIN-SUFFIX,s.swiftypecdn.com
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,data.jsdelivr.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,cf.jsdelivr.net
+DOMAIN-SUFFIX,fastly.jsdelivr.net
 DOMAIN-SUFFIX,splashthat.com
 DOMAIN-SUFFIX,2023dpesummit.splashthat.com
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stackoverflow.blog
+DOMAIN-SUFFIX,dev.to
 DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,codebergusercontent.com
@@ -749,6 +759,7 @@ DOMAIN-SUFFIX,angular.dev
 DOMAIN-SUFFIX,angular.io
 DOMAIN-SUFFIX,svelte.dev
 DOMAIN-SUFFIX,vite.dev
+DOMAIN-SUFFIX,viteconf.amsterdam
 DOMAIN-SUFFIX,webpack.js.org
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,nuxt.com
@@ -777,6 +788,7 @@ DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,vercel.sh
 DOMAIN-SUFFIX,vercel-insights.com
+DOMAIN-SUFFIX,vercel-status.com
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,netlifyglobalcdn.com
@@ -820,6 +832,7 @@ DOMAIN-SUFFIX,cdn.matomo.cloud
 DOMAIN-SUFFIX,workshub.com
 DOMAIN-SUFFIX,workshub.imgix.net
 DOMAIN-SUFFIX,chrisarmstrong.dev
+DOMAIN-SUFFIX,boogdan.com
 DOMAIN-SUFFIX,fundraiseup.com
 DOMAIN-SUFFIX,sentry.fundraiseup.com
 DOMAIN-SUFFIX,gnupg.org
@@ -1981,13 +1994,10 @@ DOMAIN-SUFFIX,pro.fontawesome.com
 DOMAIN-SUFFIX,ka-p.fontawesome.com
 DOMAIN-SUFFIX,fonts.bunny.net
 DOMAIN-SUFFIX,mieqq.com
-DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,ghps.cc
 DOMAIN-SUFFIX,raw.fastgit.org
-DOMAIN-SUFFIX,fastly.jsdelivr.net
 DOMAIN-SUFFIX,mirror.ghproxy.com
-DOMAIN-SUFFIX,cf.jsdelivr.net
 DOMAIN-SUFFIX,iina.io
 DOMAIN-SUFFIX,api.iina.io
 DOMAIN-SUFFIX,cdn.iina.io
@@ -2918,6 +2928,8 @@ DOMAIN-SUFFIX,oktacdn.com
 DOMAIN-SUFFIX,staticintl.cloudcachetci.com
 DOMAIN-SUFFIX,dscache-intl.cloudcachetci.com
 DOMAIN-SUFFIX,tci18n.cloudcachetci.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,cloudcache.tencent-cloud.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adobe.io
@@ -3104,6 +3116,8 @@ DOMAIN-SUFFIX,w.hcaptcha.com
 DOMAIN-SUFFIX,consent.cookiebot.com
 DOMAIN-SUFFIX,consentcdn.cookiebot.com
 DOMAIN-SUFFIX,imgsct.cookiebot.com
+DOMAIN-SUFFIX,cookiehub.eu
+DOMAIN-SUFFIX,cdn.cookiehub.eu
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,privacy.trustarc.com
 DOMAIN-SUFFIX,truste.com
@@ -3890,7 +3904,6 @@ DOMAIN-SUFFIX,rshah.org
 DOMAIN-SUFFIX,mountos.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,worldmonitor.app
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,recloudstream.github.io
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,githubmemory.com
@@ -4180,6 +4193,8 @@ DOMAIN-SUFFIX,fast.hf.co
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,betterstack.com
 DOMAIN-SUFFIX,betterstack.net
+DOMAIN-SUFFIX,fossa.com
+DOMAIN-SUFFIX,app.fossa.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
