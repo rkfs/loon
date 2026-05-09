@@ -104,6 +104,8 @@ DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,VK6kTpJBIO.solastme.cc
 DOMAIN-SUFFIX,vk6tpjbio.solastme.cc
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amz123.com
 DOMAIN-SUFFIX,cdn.amz123.com
 DOMAIN-SUFFIX,cdn.zfty.work
@@ -733,6 +735,9 @@ DOMAIN-SUFFIX,data.jsdelivr.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,cf.jsdelivr.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.b-cdn.net
+DOMAIN-SUFFIX,ns1pcdn.net
+DOMAIN-SUFFIX,1xtsor1-m.ns1pcdn.net
 DOMAIN-SUFFIX,splashthat.com
 DOMAIN-SUFFIX,2023dpesummit.splashthat.com
 DOMAIN-SUFFIX,stackoverflow.com
@@ -4195,6 +4200,11 @@ DOMAIN-SUFFIX,betterstack.com
 DOMAIN-SUFFIX,betterstack.net
 DOMAIN-SUFFIX,fossa.com
 DOMAIN-SUFFIX,app.fossa.com
+DOMAIN-SUFFIX,aapls.com
+DOMAIN-SUFFIX,rules.aapls.com
+DOMAIN-SUFFIX,gelato.com
+DOMAIN-SUFFIX,gelato.tech
+DOMAIN-SUFFIX,ecommerce-editor-connector.live.gelato.tech
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
@@ -4221,3 +4231,4 @@ DOMAIN-SUFFIX,mashiro.pro
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,sev7en.blog
 DOMAIN-SUFFIX,v2ray-agent.com
+DOMAIN-SUFFIX,hackl0us.com

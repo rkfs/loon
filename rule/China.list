@@ -1226,6 +1226,8 @@ DOMAIN-SUFFIX,cdn.minimax.ai
 DOMAIN-SUFFIX,assets.minimax.ai
 DOMAIN-SUFFIX,passport.minimax.ai
 DOMAIN-SUFFIX,auth.minimax.ai
+DOMAIN-SUFFIX,hailuoai.video
+DOMAIN-SUFFIX,cdn.hailuoai.video
 DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,zhipuai.com
 DOMAIN-SUFFIX,chatglm.cn
@@ -1509,3 +1511,12 @@ DOMAIN-SUFFIX,lanzous.com
 DOMAIN-SUFFIX,lanzou.com
 DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzoug.com
+DOMAIN-SUFFIX,nange.cn
+DOMAIN-SUFFIX,ifdian.net
+DOMAIN-SUFFIX,afdiancdn.com
+DOMAIN-SUFFIX,static.afdiancdn.com
+DOMAIN-SUFFIX,pic1.afdiancdn.com
+DOMAIN-SUFFIX,z.ai
+DOMAIN-SUFFIX,autoglm.z.ai
+DOMAIN-SUFFIX,autoglm-api.autoglm.ai
+DOMAIN-SUFFIX,accio.com

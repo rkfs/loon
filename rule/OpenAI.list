@@ -171,6 +171,7 @@ DOMAIN-SUFFIX,about.fb.com
 DOMAIN-SUFFIX,developers.facebook.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,downloads.claude.ai
 DOMAIN-SUFFIX,api.anthropic.com
 DOMAIN-SUFFIX,api.claude.ai
 DOMAIN-SUFFIX,api.claude.com
@@ -429,6 +430,10 @@ DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,flowiseai.com
 DOMAIN-SUFFIX,langflow.org
 DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,nousresearch.com
+DOMAIN-SUFFIX,hermes-agent.nousresearch.com
+DOMAIN-SUFFIX,psyche.network
+DOMAIN-SUFFIX,docs.psyche.network
 DOMAIN-SUFFIX,worldclaw.ai
 DOMAIN-SUFFIX,worldrouter.ai
 DOMAIN-SUFFIX,auth.worldrouter.ai
