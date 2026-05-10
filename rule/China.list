@@ -233,6 +233,8 @@ DOMAIN-SUFFIX,tdis.cn
 DOMAIN-SUFFIX,taas.cn
 DOMAIN-SUFFIX,robotics.ac.cn
 DOMAIN-SUFFIX,cstc.org.cn
+DOMAIN-SUFFIX,chinaz.com
+DOMAIN-SUFFIX,tool.chinaz.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,cup.com.cn
@@ -1520,3 +1522,6 @@ DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,autoglm.z.ai
 DOMAIN-SUFFIX,autoglm-api.autoglm.ai
 DOMAIN-SUFFIX,accio.com
+DOMAIN-SUFFIX,1panel.cn
+DOMAIN-SUFFIX,fit2cloud.com
+DOMAIN-SUFFIX,community.fit2cloud.com

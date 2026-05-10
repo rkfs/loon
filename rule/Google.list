@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,domains.google
 DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,googledomains.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,proto.googleapis.com
 DOMAIN-SUFFIX,notifications-pa.googleapis.com
 DOMAIN-SUFFIX,content-autofill.googleapis.com
@@ -79,9 +80,12 @@ DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.googlesource.com
 DOMAIN-SUFFIX,crbug.com
+DOMAIN-SUFFIX,clients2.google.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,android.clients.google.com
+DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,play-lh.googleusercontent.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
@@ -104,6 +108,7 @@ DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,cdn.ampproject.org
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
