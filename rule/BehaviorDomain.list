@@ -282,3 +282,4 @@ DOMAIN-SUFFIX,tracker.nocodelytics.com
 DOMAIN-SUFFIX,posthog.prd.ainft.com
 DOMAIN-SUFFIX,ingesteer.services-prod.nsvcs.net
 DOMAIN-SUFFIX,cdn.convertbox.com
+DOMAIN-SUFFIX,http-inputs-notion.splunkcloud.com

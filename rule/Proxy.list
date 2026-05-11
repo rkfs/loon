@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-SUFFIX,api.scamalytics.com
 DOMAIN-SUFFIX,cdn.scamalytics.com
+DOMAIN-SUFFIX,netify.ai
 DOMAIN-SUFFIX,academia.edu
 DOMAIN-SUFFIX,a.academia-assets.com
 DOMAIN-SUFFIX,secure.academia.edu
@@ -83,6 +84,8 @@ DOMAIN-SUFFIX,khanted.org
 DOMAIN-SUFFIX,khanacademy.org
 DOMAIN-SUFFIX,kastatic.org
 DOMAIN-SUFFIX,kasandbox.org
+DOMAIN-SUFFIX,sj-cdn.net
+DOMAIN-SUFFIX,cc.sj-cdn.net
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,drweb.com
@@ -216,6 +219,7 @@ DOMAIN-SUFFIX,static.whatnot.com
 DOMAIN-SUFFIX,api.whatnot.com
 DOMAIN-SUFFIX,auth.whatnot.com
 DOMAIN-SUFFIX,checkout.whatnot.com
+DOMAIN-SUFFIX,cottonbureau.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,cdn.whatsapp.net
@@ -249,6 +253,12 @@ DOMAIN-SUFFIX,images-fe.ssl-images-amazon.com
 DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,press.aboutamazon.com
 DOMAIN-SUFFIX,builder.aws.com
+DOMAIN-SUFFIX,api.builder.aws.com
+DOMAIN-SUFFIX,repost.aws
+DOMAIN-SUFFIX,tools.shortbread.aws.dev
+DOMAIN-SUFFIX,prod.tools.shortbread.aws.dev
+DOMAIN-SUFFIX,sts.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 DOMAIN-SUFFIX,awsstatic.com
@@ -697,6 +707,8 @@ DOMAIN-SUFFIX,ssl.reddit.com
 DOMAIN-SUFFIX,redditinc.com
 DOMAIN-SUFFIX,reddit.my.site.com
 DOMAIN-SUFFIX,reddit.my.salesforce-scrt.com
+DOMAIN-SUFFIX,insided.com
+DOMAIN-SUFFIX,cdn-euw1.insided.com
 DOMAIN-SUFFIX,cdn.siftscience.com
 DOMAIN-SUFFIX,expedia.com
 DOMAIN-SUFFIX,expedia.ca
@@ -1869,6 +1881,7 @@ DOMAIN-SUFFIX,rbth.com
 DOMAIN-SUFFIX,culture.gov.ru
 DOMAIN-SUFFIX,mkrf.ru
 DOMAIN-SUFFIX,runivers.ru
+DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion-static.com
@@ -1878,7 +1891,9 @@ DOMAIN-SUFFIX,notion-newtab.com
 DOMAIN-SUFFIX,notion.services
 DOMAIN-SUFFIX,api.notion.com
 DOMAIN-SUFFIX,status.notion.so
+DOMAIN-SUFFIX,notion-status.com
 DOMAIN-SUFFIX,app.notion.com
+DOMAIN-SUFFIX,makewithnotion.com
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,evernoteusercontent.com
 DOMAIN-SUFFIX,evernote-staging.com
@@ -3849,6 +3864,8 @@ DOMAIN-SUFFIX,docs.oracle.com
 DOMAIN-SUFFIX,login.oracle.com
 DOMAIN-SUFFIX,education.oracle.com
 DOMAIN-SUFFIX,apex.oracle.com
+DOMAIN-SUFFIX,ocic-static.com
+DOMAIN-SUFFIX,lf-cdn.ocic-static.com
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,developer.nvidia.com
 DOMAIN-SUFFIX,download.nvidia.com
@@ -4231,6 +4248,9 @@ DOMAIN-SUFFIX,media.bitterbrains.com
 DOMAIN-SUFFIX,helpscout.net
 DOMAIN-SUFFIX,beacon-v2.helpscout.net
 DOMAIN-SUFFIX,lxware.hk
+DOMAIN-SUFFIX,larksuite.com
+DOMAIN-SUFFIX,larkoffice.com
+DOMAIN-SUFFIX,larksuitecdn.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
