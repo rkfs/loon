@@ -3899,6 +3899,9 @@ DOMAIN-SUFFIX,cdnapi.kaltura.com
 DOMAIN-SUFFIX,api.kaltura.com
 DOMAIN-SUFFIX,player.kaltura.com
 DOMAIN-SUFFIX,cfvod.kaltura.com
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,api.brightcove.com
 DOMAIN-SUFFIX,securitylab.amnesty.org
 DOMAIN-SUFFIX,cc.cdn.civiccomputing.com
 DOMAIN-SUFFIX,e.infogram.com
@@ -4251,6 +4254,16 @@ DOMAIN-SUFFIX,lxware.hk
 DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,larkoffice.com
 DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,skylinewebcams.com
+DOMAIN-SUFFIX,sublimetext.com
+DOMAIN-SUFFIX,sublimehq.com
+DOMAIN-SUFFIX,packagecontrol.io
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,sxcontent9668.azureedge.us
+DOMAIN-SUFFIX,starlink.com
+DOMAIN-SUFFIX,boringcompany.com
+DOMAIN-SUFFIX,neuralink.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com

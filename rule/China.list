@@ -1321,6 +1321,7 @@ DOMAIN-SUFFIX,api.wandoujia.com
 DOMAIN-SUFFIX,blob.core.chinacloudapi.cn
 DOMAIN-SUFFIX,web.core.chinacloudapi.cn
 DOMAIN-SUFFIX,core.chinacloudapi.cn
+DOMAIN-SUFFIX,gallerycdn.azure.cn
 DOMAIN-SUFFIX,stcms.beisen.com
 DOMAIN-SUFFIX,kgw.com
 DOMAIN-SUFFIX,var.kgw.com
@@ -1521,3 +1522,5 @@ DOMAIN-SUFFIX,accio.com
 DOMAIN-SUFFIX,1panel.cn
 DOMAIN-SUFFIX,fit2cloud.com
 DOMAIN-SUFFIX,community.fit2cloud.com
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,bmw.com.cn
