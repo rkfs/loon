@@ -3708,6 +3708,11 @@ DOMAIN-SUFFIX,arcade.software
 DOMAIN-SUFFIX,cdn.arcade.software
 DOMAIN-SUFFIX,storyblok.com
 DOMAIN-SUFFIX,a-us.storyblok.com
+DOMAIN-SUFFIX,contentful.com
+DOMAIN-SUFFIX,ctfassets.net
+DOMAIN-SUFFIX,contentfulassets.net
+DOMAIN-SUFFIX,cdn-mr.contentful.com
+DOMAIN-SUFFIX,orangelogic.com
 DOMAIN-SUFFIX,chilipiper.com
 DOMAIN-SUFFIX,grafana.chilipiper.com
 DOMAIN-SUFFIX,sinch.com
@@ -4444,6 +4449,15 @@ DOMAIN-SUFFIX,maserati.ca
 DOMAIN-SUFFIX,maserati.com.au
 DOMAIN-SUFFIX,maserati.it
 DOMAIN-SUFFIX,maserati.co.jp
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,bitbucket.com
+DOMAIN-SUFFIX,bitbucketstatus.com
+DOMAIN-SUFFIX,dyn.com
+DOMAIN-SUFFIX,account.dyn.com
+DOMAIN-SUFFIX,oci.dyn.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,dynect.net
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
