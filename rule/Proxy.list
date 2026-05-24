@@ -1254,6 +1254,7 @@ DOMAIN-SUFFIX,track.goaffpro.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,api.zendesk.com
 DOMAIN-SUFFIX,static.zdassets.com
+DOMAIN-SUFFIX,p6.zdassets.com
 DOMAIN-SUFFIX,theme.zdassets.com
 DOMAIN-SUFFIX,widget.zdassets.com
 DOMAIN-SUFFIX,ekr.zdassets.com
@@ -3772,6 +3773,7 @@ DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,o0.ingest.sentry.io
 DOMAIN-SUFFIX,o1.ingest.sentry.io
 DOMAIN-SUFFIX,cdn.ravenjs.com
+DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,now.sh
@@ -4477,7 +4479,10 @@ DOMAIN-SUFFIX,h5.redteago.com
 DOMAIN-SUFFIX,airalo.com
 DOMAIN-SUFFIX,holafly.com
 DOMAIN-SUFFIX,nomadesim.com
+DOMAIN-SUFFIX,api.getnomad.app
+DOMAIN-SUFFIX,cms.getnomad.app
 DOMAIN-SUFFIX,ubigi.com
+DOMAIN-SUFFIX,transatel.com
 DOMAIN-SUFFIX,gigsky.com
 DOMAIN-SUFFIX,alosim.com
 DOMAIN-SUFFIX,saily.com
@@ -4491,6 +4496,13 @@ DOMAIN-SUFFIX,roamless.com
 DOMAIN-SUFFIX,bnesim.com
 DOMAIN-SUFFIX,bytesim.com
 DOMAIN-SUFFIX,ip2c.org
+DOMAIN-SUFFIX,intercom-messenger.com
+DOMAIN-SUFFIX,studentbeans.com
+DOMAIN-SUFFIX,group.ntt
+DOMAIN-SUFFIX,asia.tools.euroland.com
+DOMAIN-SUFFIX,cache.dga.jp
+DOMAIN-SUFFIX,artisan.co
+DOMAIN-SUFFIX,omappapi.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
