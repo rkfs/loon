@@ -4484,6 +4484,7 @@ DOMAIN-SUFFIX,cms.getnomad.app
 DOMAIN-SUFFIX,ubigi.com
 DOMAIN-SUFFIX,transatel.com
 DOMAIN-SUFFIX,gigsky.com
+DOMAIN-SUFFIX,gigsky.sng.link
 DOMAIN-SUFFIX,alosim.com
 DOMAIN-SUFFIX,saily.com
 DOMAIN-SUFFIX,yesim.app
@@ -4503,6 +4504,11 @@ DOMAIN-SUFFIX,asia.tools.euroland.com
 DOMAIN-SUFFIX,cache.dga.jp
 DOMAIN-SUFFIX,artisan.co
 DOMAIN-SUFFIX,omappapi.com
+DOMAIN-SUFFIX,olymmons.com
+DOMAIN-SUFFIX,yotobike.com
+DOMAIN-SUFFIX,onemilebike.com
+DOMAIN-SUFFIX,rocketgirlsclub.com
+IP-CIDR,167.179.90.104/32
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
