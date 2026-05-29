@@ -430,7 +430,6 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,configuration.apple-mapkit.com
 DOMAIN-SUFFIX,tiles.apple.com
 DOMAIN-SUFFIX,mapkitjs.apple.com
-IP-CIDR,63.92.224.0/19
 DOMAIN-SUFFIX,gamecenter.apple.com
 DOMAIN-SUFFIX,gk.apple.com
 DOMAIN-SUFFIX,init.gc.apple.com

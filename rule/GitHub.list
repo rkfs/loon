@@ -85,9 +85,3 @@ DOMAIN-SUFFIX,api.security.github.com
 DOMAIN-SUFFIX,vulnerability.github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,thegithubshop.com
-IP-CIDR,192.30.252.0/22
-IP-CIDR,185.199.108.0/22
-IP-CIDR,140.82.112.0/20
-IP-CIDR,143.55.64.0/20
-IP-CIDR6,2a0a:a440::/29
-IP-CIDR6,2606:50c0::/32
