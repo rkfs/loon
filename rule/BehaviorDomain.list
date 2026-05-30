@@ -249,8 +249,6 @@ DOMAIN-SUFFIX,wasu-statistics.cn-hangzhou.log.aliyuncs.com
 DOMAIN-SUFFIX,stat.funshion.com
 DOMAIN-SUFFIX,pcap.funshion.com
 DOMAIN-SUFFIX,eum-appdynamics.com
-DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,collector-cdn.github.com
 DOMAIN-SUFFIX,events.anthropic.com
 DOMAIN-SUFFIX,events.claude.ai
 DOMAIN-SUFFIX,intake-analytics.wikimedia.org

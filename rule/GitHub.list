@@ -85,3 +85,5 @@ DOMAIN-SUFFIX,api.security.github.com
 DOMAIN-SUFFIX,vulnerability.github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,collector-cdn.github.com

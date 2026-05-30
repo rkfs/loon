@@ -59,6 +59,10 @@ DOMAIN-SUFFIX,fortune.com
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com
 DOMAIN-SUFFIX,image.cnbcfm.com
+DOMAIN-SUFFIX,ifanr.com
+DOMAIN-SUFFIX,media.ifanrusercontent.com
+DOMAIN-SUFFIX,images.ifanr.cn
+DOMAIN-SUFFIX,cdn.ifanr.cn
 DOMAIN-SUFFIX,khanted.org
 DOMAIN-SUFFIX,khanacademy.org
 DOMAIN-SUFFIX,kastatic.org
@@ -4488,6 +4492,8 @@ DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,publicsuffix.org
 DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,dashboard.linkgraph.com
+DOMAIN-SUFFIX,ifanr.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
