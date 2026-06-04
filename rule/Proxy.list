@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cf.cloudflare.com
@@ -1110,6 +1111,7 @@ DOMAIN-SUFFIX,api.payoneer.com
 DOMAIN-SUFFIX,secure.payoneer.com
 DOMAIN-SUFFIX,resources.payoneer.com
 DOMAIN-SUFFIX,cdn.payoneer.com
+DOMAIN-SUFFIX,xtransfer.com
 DOMAIN-SUFFIX,worldremit.com
 DOMAIN-SUFFIX,transfer.worldremit.com
 DOMAIN-SUFFIX,api.worldremit.com
@@ -4494,6 +4496,8 @@ DOMAIN-SUFFIX,namesilo.com
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,dashboard.linkgraph.com
 DOMAIN-SUFFIX,ifanr.com
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,registry.yarnpkg.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
