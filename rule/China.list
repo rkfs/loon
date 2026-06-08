@@ -175,6 +175,7 @@ DOMAIN-SUFFIX,codetencent.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,myqq.com
 DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,aq.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
@@ -1564,3 +1565,6 @@ DOMAIN-SUFFIX,maserati.com.cn
 DOMAIN-SUFFIX,cqzxmoto.com
 DOMAIN-SUFFIX,zxmoto.com
 DOMAIN-SUFFIX,nvidia.cn
+DOMAIN-SUFFIX,asiainfo-sec.com
+DOMAIN-SUFFIX,esupport.asiainfo-sec.com
+DOMAIN-SUFFIX,asm.asiainfo-sec.com

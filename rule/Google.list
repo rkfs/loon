@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.googlesource.com
 DOMAIN-SUFFIX,crbug.com
 DOMAIN-SUFFIX,clients2.google.com
+DOMAIN-SUFFIX,clients2.googleusercontent.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,play.google.com
@@ -113,6 +114,7 @@ DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
+DOMAIN-SUFFIX,ohttp-relay-safebrowsing-chrome.google.fastly-edge.com
 DOMAIN-SUFFIX,merchants.google.com
 DOMAIN-SUFFIX,merchant-center.googleapis.com
 DOMAIN-SUFFIX,shoppingcontent.googleapis.com
