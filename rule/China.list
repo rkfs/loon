@@ -970,6 +970,7 @@ DOMAIN-SUFFIX,api.so.360.cn
 DOMAIN-SUFFIX,p4papi.so.360.cn
 DOMAIN-SUFFIX,srpapi.so.com
 DOMAIN-SUFFIX,click.so.360.cn
+DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,m.sm.cn
 DOMAIN-SUFFIX,sugs.m.sm.cn
@@ -1562,9 +1563,10 @@ DOMAIN-SUFFIX,citroen.com.cn
 DOMAIN-SUFFIX,dpca.com.cn
 DOMAIN-SUFFIX,jeep.com.cn
 DOMAIN-SUFFIX,maserati.com.cn
-DOMAIN-SUFFIX,cqzxmoto.com
-DOMAIN-SUFFIX,zxmoto.com
+DOMAIN-SUFFIX,zhangxuejiche.net
 DOMAIN-SUFFIX,nvidia.cn
 DOMAIN-SUFFIX,asiainfo-sec.com
 DOMAIN-SUFFIX,esupport.asiainfo-sec.com
 DOMAIN-SUFFIX,asm.asiainfo-sec.com
+DOMAIN-SUFFIX,qqiwu.cn
+DOMAIN-SUFFIX,zets.cn
