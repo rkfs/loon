@@ -2758,7 +2758,7 @@ DOMAIN-SUFFIX,ai21-25575448.hs-sites-eu1.com
 DOMAIN-SUFFIX,8040338.fs1.hubspotusercontent-na1.net
 DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,26563514.fs1.hubspotusercontent-eu1.net
-DOMAIN-SUFFIX,api.hubapi.com
+DOMAIN-SUFFIX,hubapi.com
 DOMAIN-SUFFIX,claydar.com
 DOMAIN-SUFFIX,static.claydar.com
 DOMAIN-SUFFIX,cdn.claydar.com
@@ -4485,6 +4485,8 @@ DOMAIN-SUFFIX,roamless.com
 DOMAIN-SUFFIX,bnesim.com
 DOMAIN-SUFFIX,bytesim.com
 DOMAIN-SUFFIX,ip2c.org
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,api.intercom.io
 DOMAIN-SUFFIX,intercom-messenger.com
 DOMAIN-SUFFIX,studentbeans.com
 DOMAIN-SUFFIX,group.ntt
@@ -4539,6 +4541,18 @@ DOMAIN-SUFFIX,fantasy.yahoo.com
 DOMAIN-SUFFIX,sports.yahoo.com
 DOMAIN-SUFFIX,yahoofantasysports.com
 DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,attio.com
+DOMAIN-SUFFIX,carta.com
+DOMAIN-SUFFIX,demandbase.com
+DOMAIN-SUFFIX,pipedrive.com
+DOMAIN-SUFFIX,streak.com
+DOMAIN-SUFFIX,zoominfo.com
+DOMAIN-SUFFIX,close.com
+DOMAIN-SUFFIX,apollo.io
+DOMAIN-SUFFIX,outreach.io
+DOMAIN-SUFFIX,actively.ai
+DOMAIN-SUFFIX,hebbia.com
+DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
@@ -4566,3 +4580,7 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,sev7en.blog
 DOMAIN-SUFFIX,v2ray-agent.com
 DOMAIN-SUFFIX,hackl0us.com
+DOMAIN-SUFFIX,jason-trost.medium.com
+DOMAIN-SUFFIX,cdn-client.medium.com
+DOMAIN-SUFFIX,miro.medium.com
+DOMAIN-SUFFIX,glyph.medium.com
