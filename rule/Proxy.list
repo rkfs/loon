@@ -247,10 +247,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,a0.awsstatic.com
-DOMAIN-SUFFIX,s3.amazonaws.com
-DOMAIN-SUFFIX,s3-us-west-1.amazonaws.com
-DOMAIN-SUFFIX,s3-us-west-2.amazonaws.com
-DOMAIN-SUFFIX,s3.dualstack.us-east-2.amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,lightsail.aws.amazon.com
 DOMAIN-SUFFIX,lightsail.com
 DOMAIN-SUFFIX,amazonlightsail.com
@@ -693,7 +690,10 @@ DOMAIN-SUFFIX,reddit.my.site.com
 DOMAIN-SUFFIX,reddit.my.salesforce-scrt.com
 DOMAIN-SUFFIX,insided.com
 DOMAIN-SUFFIX,cdn-euw1.insided.com
+DOMAIN-SUFFIX,walls.io
 DOMAIN-SUFFIX,cdn.siftscience.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,pingone.com
 DOMAIN-SUFFIX,expedia.com
 DOMAIN-SUFFIX,expedia.ca
 DOMAIN-SUFFIX,expedia.com.au
@@ -3896,6 +3896,8 @@ DOMAIN-SUFFIX,cfvod.kaltura.com
 DOMAIN-SUFFIX,brightcove.net
 DOMAIN-SUFFIX,brightcove.com
 DOMAIN-SUFFIX,api.brightcove.com
+DOMAIN-SUFFIX,theoplayer.com
+DOMAIN-SUFFIX,license.theoplayer.com
 DOMAIN-SUFFIX,securitylab.amnesty.org
 DOMAIN-SUFFIX,cc.cdn.civiccomputing.com
 DOMAIN-SUFFIX,e.infogram.com
@@ -3907,6 +3909,7 @@ DOMAIN-SUFFIX,xobuilder.app
 DOMAIN-SUFFIX,cdn.xobuilder.app
 DOMAIN-SUFFIX,limits.minmaxify.com
 DOMAIN-SUFFIX,octocaptcha.com
+DOMAIN-SUFFIX,captcha-delivery.com
 DOMAIN-SUFFIX,github-api.arkoselabs.com
 DOMAIN-SUFFIX,blog.nocode.host
 DOMAIN-SUFFIX,paper2x.noedgeai.com
@@ -3914,9 +3917,7 @@ DOMAIN-SUFFIX,paperburner.viwoplus.site
 DOMAIN-SUFFIX,academic.chatwithpaper.org
 DOMAIN-SUFFIX,yibao.233h.com
 DOMAIN-SUFFIX,hotkeycheatsheet.com
-DOMAIN-SUFFIX,apothecary.tips
 DOMAIN-SUFFIX,docs.cook.ninthfeast.com
-DOMAIN-SUFFIX,simhaoka.com
 DOMAIN-SUFFIX,site.nocode.host
 DOMAIN-SUFFIX,semianalysis.com
 DOMAIN-SUFFIX,sophos.com
@@ -4484,6 +4485,8 @@ DOMAIN-SUFFIX,jetpacglobal.com
 DOMAIN-SUFFIX,roamless.com
 DOMAIN-SUFFIX,bnesim.com
 DOMAIN-SUFFIX,bytesim.com
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,giffgaff.design
 DOMAIN-SUFFIX,ip2c.org
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,api.intercom.io
@@ -4553,6 +4556,13 @@ DOMAIN-SUFFIX,outreach.io
 DOMAIN-SUFFIX,actively.ai
 DOMAIN-SUFFIX,hebbia.com
 DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,fifa.com
+DOMAIN-SUFFIX,usestoryteller.com
+DOMAIN-SUFFIX,flourish.studio
+DOMAIN-SUFFIX,flo.uri.sh
+DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,overplay.com
+DOMAIN-SUFFIX,finsweet.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
@@ -4581,6 +4591,5 @@ DOMAIN-SUFFIX,sev7en.blog
 DOMAIN-SUFFIX,v2ray-agent.com
 DOMAIN-SUFFIX,hackl0us.com
 DOMAIN-SUFFIX,jason-trost.medium.com
-DOMAIN-SUFFIX,cdn-client.medium.com
-DOMAIN-SUFFIX,miro.medium.com
-DOMAIN-SUFFIX,glyph.medium.com
+DOMAIN-SUFFIX,apothecary.tips
+DOMAIN-SUFFIX,simhaoka.com
