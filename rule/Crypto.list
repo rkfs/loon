@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binancezh.cc
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,static.bscdnweb.com
+DOMAIN-SUFFIX,devfdg.net
 DOMAIN-SUFFIX,image.binance.vision
 DOMAIN-SUFFIX,frontend-m.binance.cloud
 DOMAIN-SUFFIX,binance.charity
@@ -17,6 +18,8 @@ IP-CIDR,120.24.233.110/32
 IP-CIDR,120.76.205.62/32
 IP-CIDR,120.78.229.149/32
 IP-CIDR,120.79.3.17/32
+DOMAIN-SUFFIX,four.meme
+DOMAIN-SUFFIX,binancewallet.asterbroker.com
 DOMAIN-SUFFIX,binance.nodereal.io
 DOMAIN-SUFFIX,nodereal.io
 DOMAIN-SUFFIX,bscrpc.com
@@ -625,3 +628,7 @@ DOMAIN-SUFFIX,onerpc.com
 DOMAIN-SUFFIX,enterprise.onerpc.com
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,magic.link
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,gateway.ipfs.io
+DOMAIN-SUFFIX,docs.ipfs.io
+DOMAIN-SUFFIX,ipfs.sintral.me

@@ -28,14 +28,17 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,speed.misaka.one
-DOMAIN-SUFFIX,cdn.ziffstatic.com
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,ziffstatic.com
 DOMAIN-SUFFIX,speedtest.sjc.sonic.net
 DOMAIN-SUFFIX,lg-sea.fdcservers.net
 DOMAIN-SUFFIX,sp-sea-01.ezeefiber.net
 DOMAIN-SUFFIX,seattle.speedtest.centurylink.net
+DOMAIN-SUFFIX,ookla2.mbspeed.net
 DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,speedcurve.com
 DOMAIN-SUFFIX,cdn.speedcurve.com
+DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,mtu1280.losangeles.test-ipv6.com
 DOMAIN-SUFFIX,ipv6.losangeles.test-ipv6.com
@@ -461,6 +464,7 @@ IP-CIDR,108.156.144.120/32
 IP-CIDR,3.175.207.59/32
 IP-CIDR,185.18.139.0/24
 IP-CIDR,185.18.138.0/24
+DOMAIN-SUFFIX,bendingspoons.com
 DOMAIN-SUFFIX,charliemonroesoftware.com
 DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,daveshotchicken.com
@@ -692,6 +696,8 @@ DOMAIN-SUFFIX,insided.com
 DOMAIN-SUFFIX,cdn-euw1.insided.com
 DOMAIN-SUFFIX,walls.io
 DOMAIN-SUFFIX,cdn.siftscience.com
+DOMAIN-SUFFIX,protechts.net
+DOMAIN-SUFFIX,px-cloud.net
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,pingone.com
 DOMAIN-SUFFIX,expedia.com
@@ -759,6 +765,7 @@ DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stackoverflow.blog
 DOMAIN-SUFFIX,dev.to
+DOMAIN-SUFFIX,forem.com
 DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,codebergusercontent.com
@@ -772,10 +779,12 @@ DOMAIN-SUFFIX,docusaurus.io
 DOMAIN-SUFFIX,sphinx-doc.org
 DOMAIN-SUFFIX,mkdocs.org
 DOMAIN-SUFFIX,react.dev
+DOMAIN-SUFFIX,reactbits.dev
 DOMAIN-SUFFIX,vuejs.org
 DOMAIN-SUFFIX,angular.dev
 DOMAIN-SUFFIX,angular.io
 DOMAIN-SUFFIX,svelte.dev
+DOMAIN-SUFFIX,sveltebits.xyz
 DOMAIN-SUFFIX,vite.dev
 DOMAIN-SUFFIX,viteconf.amsterdam
 DOMAIN-SUFFIX,webpack.js.org
@@ -820,6 +829,7 @@ DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,railway.app
 DOMAIN-SUFFIX,up.railway.app
 DOMAIN-SUFFIX,railway.com
+DOMAIN-SUFFIX,sanity.io
 DOMAIN-SUFFIX,supabase.com
 DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,supabase.io
@@ -849,6 +859,7 @@ DOMAIN-SUFFIX,lasecurecrute.fr
 DOMAIN-SUFFIX,cloud.com
 DOMAIN-SUFFIX,matomo.cloud
 DOMAIN-SUFFIX,cdn.matomo.cloud
+DOMAIN-SUFFIX,diffuser-cdn.app-us1.com
 DOMAIN-SUFFIX,workshub.com
 DOMAIN-SUFFIX,workshub.imgix.net
 DOMAIN-SUFFIX,chrisarmstrong.dev
@@ -2068,6 +2079,7 @@ DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,registry.npmjs.org
 DOMAIN-SUFFIX,api.npmjs.com
 DOMAIN-SUFFIX,status.npmjs.org
+DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,docs.brew.sh
 DOMAIN-SUFFIX,formulae.brew.sh
@@ -2732,7 +2744,6 @@ DOMAIN-SUFFIX,cdn.intellimize.co
 DOMAIN-SUFFIX,api.intellimize.co
 DOMAIN-SUFFIX,log.intellimize.co
 DOMAIN-SUFFIX,intellimizeio.com
-DOMAIN-SUFFIX,cdn.sanity.io
 DOMAIN-SUFFIX,static.vanta.com
 DOMAIN-SUFFIX,js.hsforms.net
 DOMAIN-SUFFIX,forms.hsforms.com
@@ -4053,9 +4064,6 @@ DOMAIN-SUFFIX,discuss-cdn.tryton.org
 DOMAIN-SUFFIX,pythonlibrary.org
 DOMAIN-SUFFIX,blog.pythonlibrary.org
 DOMAIN-SUFFIX,nodejs.org
-DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,registry.npmjs.org
-DOMAIN-SUFFIX,status.npmjs.org
 DOMAIN-SUFFIX,typescriptlang.org
 DOMAIN-SUFFIX,tc39.es
 DOMAIN-SUFFIX,ecma-international.org
@@ -4563,6 +4571,13 @@ DOMAIN-SUFFIX,flo.uri.sh
 DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,overplay.com
 DOMAIN-SUFFIX,finsweet.com
+DOMAIN-SUFFIX,kodexglobal.com
+DOMAIN-SUFFIX,spaceship.com
+DOMAIN-SUFFIX,zudoku.dev
+DOMAIN-SUFFIX,obsidian.md
+DOMAIN-SUFFIX,mas.to
+DOMAIN-SUFFIX,uptimerobot.com
+DOMAIN-SUFFIX,vanta.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
@@ -4593,3 +4608,4 @@ DOMAIN-SUFFIX,hackl0us.com
 DOMAIN-SUFFIX,jason-trost.medium.com
 DOMAIN-SUFFIX,apothecary.tips
 DOMAIN-SUFFIX,simhaoka.com
+DOMAIN-SUFFIX,bushidotoken.net
