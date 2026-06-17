@@ -766,6 +766,7 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stackoverflow.blog
 DOMAIN-SUFFIX,dev.to
 DOMAIN-SUFFIX,forem.com
+DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,codebergusercontent.com
@@ -4019,6 +4020,7 @@ DOMAIN-SUFFIX,partnerpage.io
 DOMAIN-SUFFIX,assets.partnerpage.io
 DOMAIN-SUFFIX,directory.static.partnerpage.io
 DOMAIN-SUFFIX,content.partnerpage.io
+DOMAIN-SUFFIX,g2.com
 DOMAIN-SUFFIX,cdn.nift.me
 DOMAIN-SUFFIX,secure-content.meetupstatic.com
 DOMAIN-SUFFIX,secure.meetupstatic.com
@@ -4578,6 +4580,10 @@ DOMAIN-SUFFIX,obsidian.md
 DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,vanta.com
+DOMAIN-SUFFIX,storylane.io
+DOMAIN-SUFFIX,ramp.com
+DOMAIN-SUFFIX,cloudbees.io
+DOMAIN-SUFFIX,willcodexquotareset.com
 DOMAIN-SUFFIX,olymmons.com
 DOMAIN-SUFFIX,yotobike.com
 DOMAIN-SUFFIX,onemilebike.com
@@ -4609,3 +4615,4 @@ DOMAIN-SUFFIX,jason-trost.medium.com
 DOMAIN-SUFFIX,apothecary.tips
 DOMAIN-SUFFIX,simhaoka.com
 DOMAIN-SUFFIX,bushidotoken.net
+DOMAIN-SUFFIX,yachen.com
