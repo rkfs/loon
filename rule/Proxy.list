@@ -4586,11 +4586,8 @@ DOMAIN-SUFFIX,cloudbees.io
 DOMAIN-SUFFIX,willcodexquotareset.com
 DOMAIN-SUFFIX,check.socks5.cmliussss.net
 DOMAIN-SUFFIX,mirrors.cicku.me
-DOMAIN-SUFFIX,olymmons.com
-DOMAIN-SUFFIX,yotobike.com
-DOMAIN-SUFFIX,onemilebike.com
-DOMAIN-SUFFIX,rocketgirlsclub.com
-IP-CIDR,167.179.90.104/32
+DOMAIN-SUFFIX,alipayplus.com
+DOMAIN-SUFFIX,kaptcha.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
