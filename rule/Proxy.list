@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-SUFFIX,api.scamalytics.com
 DOMAIN-SUFFIX,cdn.scamalytics.com
 DOMAIN-SUFFIX,netify.ai
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,academia.edu
 DOMAIN-SUFFIX,a.academia-assets.com
 DOMAIN-SUFFIX,secure.academia.edu
@@ -1984,8 +1985,6 @@ DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,choosealicense.com
 DOMAIN-SUFFIX,gpgtools.com
-DOMAIN-SUFFIX,wireshark.org
-DOMAIN-SUFFIX,2.na.dl.wireshark.org
 DOMAIN-SUFFIX,sw-update.obdev.at
 DOMAIN-SUFFIX,geolocation.obdev.at
 DOMAIN-SUFFIX,nektony.com
@@ -3596,13 +3595,13 @@ DOMAIN-SUFFIX,photopea.com
 DOMAIN-SUFFIX,vecpea.com
 DOMAIN-SUFFIX,kali.org
 DOMAIN-SUFFIX,kali.download
-DOMAIN-SUFFIX,darklab.sh
 DOMAIN-SUFFIX,kali.darklab.sh
+DOMAIN-SUFFIX,ftp.riken.jp
+DOMAIN-SUFFIX,kali.cs.nycu.edu.tw
 DOMAIN-SUFFIX,mirror.fcix.net
 DOMAIN-SUFFIX,opencolo.mm.fcix.net
 DOMAIN-SUFFIX,nocix.mm.fcix.net
 DOMAIN-SUFFIX,ftp2.osuosl.org
-DOMAIN-SUFFIX,kali.cs.nycu.edu.tw
 DOMAIN-SUFFIX,ocf.berkeley.edu
 DOMAIN-SUFFIX,mirrors.ocf.berkeley.edu
 DOMAIN-SUFFIX,ubuntu.com
@@ -4593,6 +4592,14 @@ DOMAIN-SUFFIX,helpx.net
 DOMAIN-SUFFIX,hyperwallet.com
 DOMAIN-SUFFIX,paylution.com
 DOMAIN-SUFFIX,eightfold.ai
+DOMAIN-SUFFIX,alfa.com.tw
+DOMAIN-SUFFIX,wireshark.org
+DOMAIN-SUFFIX,2.na.dl.wireshark.org
+DOMAIN-SUFFIX,wiresharkfoundation.org
+DOMAIN-SUFFIX,spreadshirt.com
+DOMAIN-SUFFIX,spreadshirtmedia.com
+DOMAIN-SUFFIX,myspreadshop.com
+DOMAIN-SUFFIX,myspreadshop.co.uk
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
@@ -4620,3 +4627,4 @@ DOMAIN-SUFFIX,apothecary.tips
 DOMAIN-SUFFIX,simhaoka.com
 DOMAIN-SUFFIX,bushidotoken.net
 DOMAIN-SUFFIX,yachen.com
+DOMAIN-SUFFIX,wpme.pl
