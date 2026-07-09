@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,www-google-analytics.l.google.com
 DOMAIN-SUFFIX,merchant-center-analytics.goog
 DOMAIN-SUFFIX,video-stats.video.google.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,fls.doubleclick.net
+DOMAIN-SUFFIX,cm.g.doubleclick.net
 DOMAIN-SUFFIX,datadoghq-browser-agent.com
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,csp-report.browser-intake-datadoghq.eu
