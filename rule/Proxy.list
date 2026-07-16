@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,sp-sea-01.ezeefiber.net
 DOMAIN-SUFFIX,seattle.speedtest.centurylink.net
 DOMAIN-SUFFIX,mbspeed.net
 DOMAIN-SUFFIX,speed.udx.icscoe.jp
+DOMAIN-SUFFIX,tyo.speedtest.contabo.net
 DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,speedcurve.com
 DOMAIN-SUFFIX,cdn.speedcurve.com
@@ -4609,6 +4610,8 @@ DOMAIN-SUFFIX,artlist.io
 DOMAIN-SUFFIX,epidemicsound.com
 DOMAIN-SUFFIX,zapsplat.com
 DOMAIN-SUFFIX,quiverquant.com
+DOMAIN-SUFFIX,useragents.io
+DOMAIN-SUFFIX,udger.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
