@@ -436,14 +436,8 @@ DOMAIN-SUFFIX,pilot-payflowpro.paypal.com
 DOMAIN-SUFFIX,pilot-payflowlink.paypal.com
 DOMAIN-SUFFIX,payments-reports.paypal.com
 DOMAIN-SUFFIX,ipn.sandbox.paypal.com
-IP-CIDR,64.4.240.0/21
-IP-CIDR,66.211.160.0/19
-IP-CIDR,173.0.80.0/20
-IP-CIDR,91.243.72.0/22
-IP-CIDR,173.0.80.0/20
-IP-CIDR,185.177.52.0/22
-IP-CIDR,192.160.215.0/24
-IP-CIDR,198.54.216.0/23
+DOMAIN-SUFFIX,hyperwallet.com
+DOMAIN-SUFFIX,paylution.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,api.canva.com
 DOMAIN-SUFFIX,static.canva.com
@@ -591,7 +585,6 @@ DOMAIN-SUFFIX,espn.net
 DOMAIN-SUFFIX,espnplus.com
 DOMAIN-SUFFIX,espn.go.com
 DOMAIN-SUFFIX,bamgrid.com
-IP-CIDR,199.181.132.0/22
 DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,waze-events.com
 DOMAIN-SUFFIX,wazeopendata.com
@@ -895,7 +888,6 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,ext-twitch.tv
-IP-CIDR,52.223.192.0/18
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dl.dropbox.com
 DOMAIN-SUFFIX,dl.dropboxusercontent.com
@@ -2685,7 +2677,6 @@ DOMAIN-SUFFIX,liveupdate01.asus.com.edgekey.net
 DOMAIN-SUFFIX,asushwidsupport.asus.com
 DOMAIN-SUFFIX,openvpn.asus.com
 DOMAIN-SUFFIX,router.asus.com
-IP-CIDR,103.10.4.0/24
 DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,cdn.fonts.net
@@ -4583,8 +4574,6 @@ DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,kaptcha.com
 DOMAIN-SUFFIX,workaway.info
 DOMAIN-SUFFIX,helpx.net
-DOMAIN-SUFFIX,hyperwallet.com
-DOMAIN-SUFFIX,paylution.com
 DOMAIN-SUFFIX,eightfold.ai
 DOMAIN-SUFFIX,alfa.com.tw
 DOMAIN-SUFFIX,wireshark.org
