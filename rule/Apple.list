@@ -315,6 +315,8 @@ DOMAIN-SUFFIX,osrecovery.apple.com
 DOMAIN-SUFFIX,recovery.apple.com
 DOMAIN-SUFFIX,activation.apple.com
 DOMAIN-SUFFIX,activation.edge.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,gdmf-ados.apple.com
 DOMAIN-SUFFIX,swquery.apple.com
 DOMAIN-SUFFIX,swscan.apple.com
 DOMAIN-SUFFIX,swdist.apple.com

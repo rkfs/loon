@@ -1573,7 +1573,11 @@ DOMAIN-SUFFIX,asm.asiainfo-sec.com
 DOMAIN-SUFFIX,noisedh.cn
 DOMAIN-SUFFIX,hexin.cn
 DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,123ths.com
 DOMAIN-SUFFIX,cnapm.hexin.cn
+DOMAIN-SUFFIX,abtest.10jqka.com.cn
+DOMAIN-SUFFIX,hawkeye.10jqka.com.cn
+DOMAIN-SUFFIX,cloud.10jqka.com.cn
 IP-CIDR,8.132.233.59/32
 IP-CIDR,8.134.96.60/32
 IP-CIDR,8.134.108.105/32
