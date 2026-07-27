@@ -462,6 +462,7 @@ IP-CIDR,3.175.207.59/32
 IP-CIDR,185.18.139.0/24
 IP-CIDR,185.18.138.0/24
 DOMAIN-SUFFIX,bendingspoons.com
+DOMAIN-SUFFIX,bndspn.com
 DOMAIN-SUFFIX,charliemonroesoftware.com
 DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,daveshotchicken.com
@@ -3892,6 +3893,8 @@ DOMAIN-SUFFIX,cfvod.kaltura.com
 DOMAIN-SUFFIX,brightcove.net
 DOMAIN-SUFFIX,brightcove.com
 DOMAIN-SUFFIX,api.brightcove.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcovecdn.com
 DOMAIN-SUFFIX,theoplayer.com
 DOMAIN-SUFFIX,license.theoplayer.com
 DOMAIN-SUFFIX,securitylab.amnesty.org
@@ -4605,6 +4608,10 @@ DOMAIN-SUFFIX,sonniss.com
 DOMAIN-SUFFIX,illustration.app
 DOMAIN-SUFFIX,mixkit.co
 DOMAIN-SUFFIX,videoeditingsfx.com
+DOMAIN-SUFFIX,creatormix.com
+DOMAIN-SUFFIX,vidiq.com
+DOMAIN-SUFFIX,opnsense.org
+DOMAIN-SUFFIX,shop.opnsense.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
