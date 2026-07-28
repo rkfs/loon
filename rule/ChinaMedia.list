@@ -851,6 +851,7 @@ DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,passport.biligame.com
 DOMAIN-SUFFIX,chat.bilibili.com
 DOMAIN-SUFFIX,mountaintoys.cn
+DOMAIN-SUFFIX,passport.bilibili.cn
 IP-CIDR,61.170.65.76/32
 IP-CIDR,117.44.77.5/32
 IP-CIDR,150.139.228.139/32
