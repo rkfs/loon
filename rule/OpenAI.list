@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,docs.openai.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,openaifoundation.org
 DOMAIN-SUFFIX,openaipublic.blob.core.windows.net
+DOMAIN-SUFFIX,openai.gallerycdn.vsassets.io
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,tts.openai.com
 DOMAIN-SUFFIX,voice.openai.com
