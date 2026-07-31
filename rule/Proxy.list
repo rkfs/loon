@@ -765,6 +765,9 @@ DOMAIN-SUFFIX,stackoverflow.blog
 DOMAIN-SUFFIX,dev.to
 DOMAIN-SUFFIX,forem.com
 DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,authenticate.cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,anysphere.inc
 DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,codebergusercontent.com
@@ -4634,6 +4637,10 @@ DOMAIN-SUFFIX,biznetnetworks.com
 DOMAIN-SUFFIX,vetta.online
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,2ip.io
+DOMAIN,use.fortawesome.com
+DOMAIN-SUFFIX,pressranger.com
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,unifyintent.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
