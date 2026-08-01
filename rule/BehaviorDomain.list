@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,datadoghq-browser-agent.com
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,csp-report.browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,browser-intake-us3-datadoghq.com
 IP-CIDR,3.233.158.112/32
 IP-CIDR6,2600:1f18:24e6:b901:fbdc:7182:a89c:6101/128
 DOMAIN-SUFFIX,telemetry.mozilla.org
