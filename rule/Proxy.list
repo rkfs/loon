@@ -4039,8 +4039,6 @@ DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,psfmember.org
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,mathspp.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,blog.jetbrains.com
@@ -4659,6 +4657,11 @@ DOMAIN-SUFFIX,motionarray.com
 DOMAIN-SUFFIX,finaldraft.com
 DOMAIN-SUFFIX,craft.do
 DOMAIN-SUFFIX,todesktop.com
+DOMAIN-SUFFIX,nftables.org
+DOMAIN-SUFFIX,clamav.net
+DOMAIN-SUFFIX,suricata.io
+DOMAIN-SUFFIX,icons8.com
+DOMAIN-SUFFIX,tikolu.net
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe

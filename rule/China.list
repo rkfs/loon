@@ -1250,6 +1250,7 @@ DOMAIN-SUFFIX,static.bigmodel.cn
 DOMAIN-SUFFIX,docs.bigmodel.cn
 DOMAIN-SUFFIX,passport.zhipuai.cn
 DOMAIN-SUFFIX,login.zhipuai.cn
+DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,01.ai
 DOMAIN-SUFFIX,yi.ai
 DOMAIN-SUFFIX,api.01.ai
@@ -1613,6 +1614,9 @@ DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,faceu.mobi
 DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,ipc.fmprc.gov.cn
+DOMAIN-SUFFIX,tvhelper.cpolar.cn
+DOMAIN-SUFFIX,aipan.me
+DOMAIN-SUFFIX,gitcode.com
 DOMAIN-SUFFIX,qqiwu.cn
 DOMAIN-SUFFIX,zets.cn
 DOMAIN-SUFFIX,feei.cn
