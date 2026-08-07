@@ -1618,10 +1618,10 @@ DOMAIN-SUFFIX,secure.tumblr.com
 DOMAIN-SUFFIX,va.tumblr.com
 DOMAIN-SUFFIX,assets.tumblr.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,auth.wikimedia.org
-DOMAIN-SUFFIX,upload.wikimedia.org
-DOMAIN-SUFFIX,meta.wikimedia.org
-DOMAIN-SUFFIX,commons.wikimedia.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,translatewiki.net
+DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,ccc.de
 DOMAIN-SUFFIX,media.ccc.de
 DOMAIN-SUFFIX,skype.com
@@ -4665,6 +4665,8 @@ DOMAIN-SUFFIX,tikolu.net
 DOMAIN-SUFFIX,audiolibrary.com.co
 DOMAIN-SUFFIX,kp-chat.craft-talk.com
 DOMAIN-SUFFIX,klsupsite.foquz.ru
+DOMAIN-SUFFIX,free-stock-music.com
+DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
