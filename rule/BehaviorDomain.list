@@ -65,7 +65,6 @@ DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,hispace.hicloud.com
 DOMAIN-SUFFIX,logservice.hicloud.com
 DOMAIN-SUFFIX,metrics1.data.hicloud.com
-DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,o33249.ingest.us.sentry.io
 DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,js.sentry-cdn.com

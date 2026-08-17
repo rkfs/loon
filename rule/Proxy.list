@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,support-chat.cloudflare.dev
 DOMAIN-SUFFIX,cfapi.net
 DOMAIN-SUFFIX,r2.dev
+DOMAIN-SUFFIX,cloudflareinsights.com
 IP-CIDR,1.1.1.1/32
 IP-CIDR,1.0.0.1/32
 DOMAIN-SUFFIX,speedtest.net
