@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,support-chat.cloudflare.dev
 DOMAIN-SUFFIX,cfapi.net
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflare.pay
 IP-CIDR,1.1.1.1/32
 IP-CIDR,1.0.0.1/32
 DOMAIN-SUFFIX,speedtest.net
@@ -4668,6 +4669,8 @@ DOMAIN-SUFFIX,klsupsite.foquz.ru
 DOMAIN-SUFFIX,free-stock-music.com
 DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,clickup.com
+DOMAIN-SUFFIX,nic.us.kg
+DOMAIN-SUFFIX,fischnet.ch
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
