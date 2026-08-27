@@ -234,6 +234,7 @@ DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,api.hunyuan.tencent.com
 DOMAIN-SUFFIX,console.hunyuan.tencent.com
 DOMAIN-SUFFIX,cdn.hunyuan.tencent.com
+DOMAIN-SUFFIX,x.security.tencent.com
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,volcengineapi.com
@@ -1636,6 +1637,16 @@ DOMAIN-SUFFIX,gitcode.com
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,likefont.com
 DOMAIN-SUFFIX,gl-inet.cn
+DOMAIN-SUFFIX,qiyukf.com
+DOMAIN-SUFFIX,qiyukf.net
+DOMAIN-SUFFIX,ysf.nosdn.127.net
+DOMAIN-SUFFIX,qiyukf.nosdn.127.net
+DOMAIN-SUFFIX,lbs-qiyu.netease.im
+DOMAIN-SUFFIX,weblink-qiyu.netease.im
+DOMAIN-SUFFIX,qiyukf.apifox.cn
+DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,doc.commsease.com
+DOMAIN-SUFFIX,zsxq.com
 DOMAIN-SUFFIX,qqiwu.cn
 DOMAIN-SUFFIX,zets.cn
 DOMAIN-SUFFIX,feei.cn
