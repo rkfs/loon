@@ -882,6 +882,7 @@ DOMAIN-SUFFIX,boogdan.com
 DOMAIN-SUFFIX,fundraiseup.com
 DOMAIN-SUFFIX,sentry.fundraiseup.com
 DOMAIN-SUFFIX,gnupg.org
+DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,keys.gnupg.net
 DOMAIN-SUFFIX,keys.openpgp.org
 DOMAIN-SUFFIX,pgp.mit.edu
@@ -2221,6 +2222,7 @@ DOMAIN-SUFFIX,ipv6.vultr.com
 DOMAIN-SUFFIX,smtp.vultr.com
 DOMAIN-SUFFIX,dns.vultr.com
 DOMAIN-SUFFIX,mirror.vultr.com
+DOMAIN-SUFFIX,vultrdevrel.com
 DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,api.linode.com
 DOMAIN-SUFFIX,cloud.linode.com
@@ -4685,6 +4687,7 @@ DOMAIN-SUFFIX,fischnet.ch
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,ipaddress.com
+DOMAIN-SUFFIX,marmot-cloud.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
