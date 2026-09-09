@@ -1998,11 +1998,14 @@ DOMAIN-SUFFIX,addthis.com.edgekey.net
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,choosealicense.com
+DOMAIN-SUFFIX,gnupg.org
+DOMAIN-SUFFIX,gnu.org
+DOMAIN-SUFFIX,keys.gnupg.net
+DOMAIN-SUFFIX,gpgtools.org
 DOMAIN-SUFFIX,gpgtools.com
 DOMAIN-SUFFIX,sw-update.obdev.at
 DOMAIN-SUFFIX,geolocation.obdev.at
 DOMAIN-SUFFIX,tails.net
-DOMAIN-SUFFIX,gpgtools.org
 DOMAIN-SUFFIX,openpgp.org
 DOMAIN-SUFFIX,keybase.io
 DOMAIN-SUFFIX,mailvelope.com
