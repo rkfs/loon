@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,windowsazure.com
 DOMAIN-SUFFIX,azure.microsoft.com
+DOMAIN-SUFFIX,service.signalr.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,microsoft365.com
@@ -71,6 +72,7 @@ DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,nuget.org
 DOMAIN-SUFFIX,codeplex.com
+DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoftonline-p.com
 DOMAIN-SUFFIX,microsoftstore.com
