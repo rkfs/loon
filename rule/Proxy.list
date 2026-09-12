@@ -849,6 +849,8 @@ DOMAIN-SUFFIX,railway.app
 DOMAIN-SUFFIX,up.railway.app
 DOMAIN-SUFFIX,railway.com
 DOMAIN-SUFFIX,sanity.io
+DOMAIN-SUFFIX,snty.link
+DOMAIN-SUFFIX,sanity.market
 DOMAIN-SUFFIX,supabase.com
 DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,supabase.io
@@ -4714,6 +4716,9 @@ DOMAIN-SUFFIX,lfr.cloud
 DOMAIN-SUFFIX,connectedcommunity.org
 DOMAIN-SUFFIX,vidyard.com
 DOMAIN-SUFFIX,knak.io
+DOMAIN-SUFFIX,talkshoe.com
+DOMAIN-SUFFIX,enterprisecms.org
+DOMAIN-SUFFIX,headlesscms.guide
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
