@@ -881,6 +881,7 @@ DOMAIN-SUFFIX,cloud.com
 DOMAIN-SUFFIX,matomo.cloud
 DOMAIN-SUFFIX,cdn.matomo.cloud
 DOMAIN-SUFFIX,diffuser-cdn.app-us1.com
+DOMAIN-SUFFIX,activecampaign.com
 DOMAIN-SUFFIX,workshub.com
 DOMAIN-SUFFIX,workshub.imgix.net
 DOMAIN-SUFFIX,chrisarmstrong.dev
@@ -4719,6 +4720,8 @@ DOMAIN-SUFFIX,knak.io
 DOMAIN-SUFFIX,talkshoe.com
 DOMAIN-SUFFIX,enterprisecms.org
 DOMAIN-SUFFIX,headlesscms.guide
+DOMAIN-SUFFIX,opensourcepledge.com
+DOMAIN-SUFFIX,svdcdn.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
