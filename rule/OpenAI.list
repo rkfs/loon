@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,openaifoundation.org
 DOMAIN-SUFFIX,openaipublic.blob.core.windows.net
 DOMAIN-SUFFIX,openai.gallerycdn.vsassets.io
+DOMAIN-SUFFIX,tidal-rush-paradise-gp.skirano.chatgpt.site
 IP-CIDR,104.244.43.229/32
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,tts.openai.com
