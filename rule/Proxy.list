@@ -460,6 +460,7 @@ DOMAIN-SUFFIX,paylution.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,api.canva.com
 DOMAIN-SUFFIX,static.canva.com
+DOMAIN-SUFFIX,canva-apps.com
 DOMAIN-SUFFIX,affin.co
 DOMAIN-SUFFIX,affinity.studio
 DOMAIN-SUFFIX,serif.com
@@ -1262,7 +1263,8 @@ DOMAIN-SUFFIX,shopifycs.com
 DOMAIN-SUFFIX,sc-static.net
 DOMAIN-SUFFIX,forms.shopifyapps.com
 DOMAIN-SUFFIX,shop.app
-DOMAIN-SUFFIX,otlp-http-production.shopifysvc.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifysvc.com
 DOMAIN-SUFFIX,sh.customily.com
 DOMAIN-SUFFIX,cdn.customily.com
 DOMAIN-SUFFIX,api.customily.com
@@ -2787,6 +2789,7 @@ DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN-SUFFIX,hubspotusercontent-eu1.net
 DOMAIN-SUFFIX,hubapi.com
 DOMAIN-SUFFIX,hubs.ly
+DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN-SUFFIX,claydar.com
 DOMAIN-SUFFIX,static.claydar.com
 DOMAIN-SUFFIX,cdn.claydar.com
@@ -4729,6 +4732,12 @@ DOMAIN-SUFFIX,crawlstop.com
 DOMAIN-SUFFIX,channeltivity.com
 DOMAIN-SUFFIX,tillo.com
 DOMAIN-SUFFIX,tillo.io
+DOMAIN-SUFFIX,default.com
+DOMAIN-SUFFIX,transcend.io
+DOMAIN-SUFFIX,transcend-cdn.com
+DOMAIN-SUFFIX,impact.com
+DOMAIN-SUFFIX,pcipro.co
+DOMAIN-SUFFIX,tokenex.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
