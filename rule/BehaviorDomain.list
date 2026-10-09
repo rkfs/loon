@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,browser-intake-us3-datadoghq.com
 IP-CIDR,3.233.158.112/32
 IP-CIDR6,2600:1f18:24e6:b901:fbdc:7182:a89c:6101/128
+DOMAIN-SUFFIX,ingesteer.services-prod.nsvcs.net
+DOMAIN-SUFFIX,browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
@@ -281,7 +283,6 @@ DOMAIN-SUFFIX,tag.demandbase.com
 DOMAIN-SUFFIX,nocodelytics.com
 DOMAIN-SUFFIX,tracker.nocodelytics.com
 DOMAIN-SUFFIX,posthog.prd.ainft.com
-DOMAIN-SUFFIX,ingesteer.services-prod.nsvcs.net
 DOMAIN-SUFFIX,cdn.convertbox.com
 DOMAIN-SUFFIX,http-inputs-notion.splunkcloud.com
 DOMAIN-SUFFIX,nvidia.tt.omtrdc.net
@@ -311,3 +312,5 @@ DOMAIN-SUFFIX,s.union.360.cn
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,vpdcp.com
 DOMAIN-SUFFIX,parsely.com
+DOMAIN-SUFFIX,visualwebsiteoptimizer.com
+DOMAIN-SUFFIX,luckyorange.com

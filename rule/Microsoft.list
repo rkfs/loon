@@ -89,7 +89,9 @@ DOMAIN-SUFFIX,login.live.com
 DOMAIN-SUFFIX,login.windows.net
 DOMAIN-SUFFIX,sts.windows.net
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,static2.sharepointonline.com
 DOMAIN-SUFFIX,cspv2.core.microsoft
+DOMAIN-SUFFIX,microsoftazuread-sso.com
 DOMAIN-SUFFIX,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,vortex.data.microsoft.com
