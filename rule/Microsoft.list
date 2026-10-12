@@ -93,5 +93,6 @@ DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,static2.sharepointonline.com
 DOMAIN-SUFFIX,cspv2.core.microsoft
 DOMAIN-SUFFIX,microsoftazuread-sso.com
+DOMAIN-SUFFIX,powerapps.com
 DOMAIN-SUFFIX,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,vortex.data.microsoft.com
