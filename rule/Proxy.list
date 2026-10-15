@@ -1210,6 +1210,7 @@ DOMAIN-SUFFIX,image.coupangcdn.com
 DOMAIN-SUFFIX,affiliate.coupang.com
 DOMAIN-SUFFIX,ads.coupang.com
 DOMAIN-SUFFIX,api.coupang.com
+DOMAIN-SUFFIX,coupangcdn.com
 DOMAIN-SUFFIX,17track.net
 DOMAIN-SUFFIX,apiv4.17track.net
 DOMAIN-SUFFIX,cdn.17track.net
@@ -2232,6 +2233,7 @@ DOMAIN-SUFFIX,bandisoft.com
 DOMAIN-SUFFIX,bz.aegis.download
 DOMAIN-SUFFIX,cdn.bandisoft.com
 DOMAIN-SUFFIX,icon.bandisoft.com
+DOMAIN-SUFFIX,bandisoft.app
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,hub.docker.com
