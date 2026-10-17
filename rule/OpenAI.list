@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,openaifoundation.org
 DOMAIN-SUFFIX,openaipublic.blob.core.windows.net
 DOMAIN-SUFFIX,openai.gallerycdn.vsassets.io
 DOMAIN-SUFFIX,tidal-rush-paradise-gp.skirano.chatgpt.site
+DOMAIN-SUFFIX,codex-cloud-environments.chatgpt.com
+DOMAIN-SUFFIX,codex-cloud-backend.chatgpt.com
 IP-CIDR,104.244.43.229/32
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
@@ -353,3 +355,5 @@ DOMAIN-SUFFIX,blackbelthelp.com
 DOMAIN-SUFFIX,blackbelthelp.ai
 DOMAIN-SUFFIX,ivo.ai
 DOMAIN-SUFFIX,texttoquant.com
+DOMAIN-SUFFIX,getartcraft.com
+DOMAIN-SUFFIX,storyteller.ai
