@@ -46,7 +46,6 @@ DOMAIN-SUFFIX,radar.apple.com
 DOMAIN-SUFFIX,download.apple.com
 DOMAIN-SUFFIX,images.apple.com
 DOMAIN-SUFFIX,maps.apple.com
-DOMAIN-SUFFIX,weather.apple.com
 DOMAIN-SUFFIX,appstoreconnect.apple.com
 DOMAIN-SUFFIX,api.appstoreconnect.apple.com
 DOMAIN-SUFFIX,music.apple.com
@@ -87,7 +86,6 @@ DOMAIN-SUFFIX,cl1-cn.apple.com
 DOMAIN-SUFFIX,cl2-cn.apple.com
 DOMAIN-SUFFIX,cl3-cn.apple.com
 DOMAIN-SUFFIX,cl4-cn.apple.com
-DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,iphone-ld.apple.com
 DOMAIN-SUFFIX,swallow.apple.com
 DOMAIN-SUFFIX,networkquality.apple.com
@@ -111,7 +109,6 @@ DOMAIN-SUFFIX,tdms.apple.com
 DOMAIN-SUFFIX,sse-ws-p189.apple.com
 DOMAIN-SUFFIX,gdmf-ados.apple.com
 DOMAIN-SUFFIX,pds-init.ess.apple.com
-DOMAIN-SUFFIX,weather-edge.apple.com
 DOMAIN-SUFFIX,sf-saas.cdn-apple.com
 DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,dictation.apple.com
@@ -421,7 +418,6 @@ DOMAIN-SUFFIX,geo-dispatch.apple.com
 DOMAIN-SUFFIX,geo-bootstrap.apple.com
 DOMAIN-SUFFIX,geo-config.apple.com
 DOMAIN-SUFFIX,gs-loc-cn.apple.com
-DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN-SUFFIX,gsp-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
@@ -444,6 +440,11 @@ DOMAIN-SUFFIX,activity.apple.com
 DOMAIN-SUFFIX,classroom.apple.com
 DOMAIN-SUFFIX,school.apple.com
 DOMAIN-SUFFIX,education.apple.com
+DOMAIN-SUFFIX,weather.apple.com
+DOMAIN-SUFFIX,weather-edge.apple.com
+DOMAIN-SUFFIX,weatherkit.apple.com
+DOMAIN-SUFFIX,weather-map2.apple.com
+DOMAIN-SUFFIX,tether.edge.apple
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
@@ -457,3 +458,5 @@ DOMAIN-SUFFIX,mask.apple-dns.net
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask-api.icloud.com
+IP-CIDR,17.253.145.10/32
+IP-CIDR,17.253.150.10/32

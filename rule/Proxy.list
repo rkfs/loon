@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflare.pay
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflare-ech.com
+IP-CIDR,104.16.249.249/32
 IP-CIDR,1.1.1.1/32
 IP-CIDR,1.0.0.1/32
 DOMAIN-SUFFIX,speedtest.net
@@ -4966,6 +4967,7 @@ DOMAIN-SUFFIX,optimonk.com
 DOMAIN-SUFFIX,tapfiliate.com
 DOMAIN-SUFFIX,recordly.dev
 DOMAIN-SUFFIX,ko-fi.com
+DOMAIN-SUFFIX,trendlife.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
