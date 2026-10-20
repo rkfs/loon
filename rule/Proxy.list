@@ -3019,6 +3019,8 @@ DOMAIN-SUFFIX,cloudone.trendmicro.com
 DOMAIN-SUFFIX,tmqa.trendmicro.com
 DOMAIN-SUFFIX,tmcloud.trendmicro.com
 DOMAIN-SUFFIX,ws.trendmicro.com
+DOMAIN-SUFFIX,trendlife.com
+DOMAIN-SUFFIX,powerbox-na-file.trend.org
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,esetstatic.com
 DOMAIN-SUFFIX,eset.eu
@@ -4967,7 +4969,10 @@ DOMAIN-SUFFIX,optimonk.com
 DOMAIN-SUFFIX,tapfiliate.com
 DOMAIN-SUFFIX,recordly.dev
 DOMAIN-SUFFIX,ko-fi.com
-DOMAIN-SUFFIX,trendlife.com
+DOMAIN-SUFFIX,display.ugc.bazaarvoice.com
+DOMAIN-SUFFIX,public.cj.com
+DOMAIN-SUFFIX,apply.workable.com
+DOMAIN-SUFFIX,betterstackdata.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
@@ -4996,3 +5001,4 @@ DOMAIN-SUFFIX,simhaoka.com
 DOMAIN-SUFFIX,bushidotoken.net
 DOMAIN-SUFFIX,yachen.com
 DOMAIN-SUFFIX,morluto.bearblog.dev
+DOMAIN-SUFFIX,blog.imouto.in
