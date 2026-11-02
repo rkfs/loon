@@ -2311,6 +2311,7 @@ DOMAIN-SUFFIX,cacerts.rapidssl.com
 DOMAIN-SUFFIX,status.rapidssl.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,cacerts.thawte.com
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,img.shields.io
 DOMAIN-SUFFIX,static.shields.io
@@ -4990,6 +4991,14 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,hackerone.com
 DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,cgtrader.com
+DOMAIN-SUFFIX,aocr.org
+DOMAIN-SUFFIX,ymaws.com
+DOMAIN-SUFFIX,careerwebsite.com
+DOMAIN-SUFFIX,xcbx.io
+DOMAIN-SUFFIX,mosaic-apps.com
+DOMAIN-SUFFIX,mycrowdwisdom.com
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe

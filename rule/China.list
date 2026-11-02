@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,zju.edu.cn
 DOMAIN-SUFFIX,ruc.edu.cn
 DOMAIN-SUFFIX,buaa.edu.cn
 DOMAIN-SUFFIX,bit.edu.cn
+DOMAIN-SUFFIX,yanhekt.cn
 DOMAIN-SUFFIX,cau.edu.cn
 DOMAIN-SUFFIX,bnu.edu.cn
 DOMAIN-SUFFIX,muc.edu.cn
@@ -79,6 +80,7 @@ DOMAIN-SUFFIX,lzu.edu.cn
 DOMAIN-SUFFIX,qhu.edu.cn
 DOMAIN-SUFFIX,nxu.edu.cn
 DOMAIN-SUFFIX,xju.edu.cn
+DOMAIN-SUFFIX,smbu.edu.cn
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,alibaba.com.cn
 DOMAIN-SUFFIX,1688.com
@@ -499,11 +501,10 @@ DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,log.baidu.com
-DOMAIN-SUFFIX,su.bdimg.com
 DOMAIN-SUFFIX,img.baidu.com
 DOMAIN-SUFFIX,m.baeapps.com
 DOMAIN-SUFFIX,zhida.baidu.com
-DOMAIN-SUFFIX,ms.bdimg.com
+DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,16map.com
 DOMAIN-SUFFIX,api.16map.com
 DOMAIN-SUFFIX,static.16map.com
@@ -1116,6 +1117,7 @@ DOMAIN-SUFFIX,adashx4serv.uc.cn
 DOMAIN-SUFFIX,adx.uc.cn
 DOMAIN-SUFFIX,track.uc.cn
 DOMAIN-SUFFIX,uc.ucweb.com
+DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,mail.163.com
 DOMAIN-SUFFIX,mail.126.com
 DOMAIN-SUFFIX,yeah.net
@@ -1766,6 +1768,14 @@ DOMAIN-SUFFIX,tushu.cloud
 DOMAIN-SUFFIX,jxgy.bg-online.com.cn
 DOMAIN-SUFFIX,7ca7da12.ydycdn.com
 DOMAIN-SUFFIX,47izcuwobl0waat32num33yuv5b5liu.z.cjjd14.com
+DOMAIN-SUFFIX,ow.sosho.cn
+DOMAIN-SUFFIX,usho.cn
+DOMAIN-SUFFIX,bjcipt.com
+DOMAIN-SUFFIX,xueshushijie.cn
+DOMAIN-SUFFIX,7x24cc.com
+DOMAIN-SUFFIX,dangdang.com
+DOMAIN-SUFFIX,ddimg.cn
+DOMAIN-SUFFIX,zhengdeedu.cn
 DOMAIN-SUFFIX,qqiwu.cn
 DOMAIN-SUFFIX,zets.cn
 DOMAIN-SUFFIX,feei.cn
