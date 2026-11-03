@@ -3115,6 +3115,7 @@ DOMAIN-SUFFIX,static.customer-hub.northpass.com
 DOMAIN-SUFFIX,acrobat.com
 DOMAIN-SUFFIX,documentcloud.adobe.com
 DOMAIN-SUFFIX,typekit.com
+DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,api.allorigins.win
 DOMAIN-SUFFIX,lever.co
 DOMAIN-SUFFIX,jobs.lever.co
@@ -4999,6 +5000,8 @@ DOMAIN-SUFFIX,mosaic-apps.com
 DOMAIN-SUFFIX,mycrowdwisdom.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,liveperson.com
+DOMAIN-SUFFIX,lithium.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe

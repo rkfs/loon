@@ -76,14 +76,15 @@ DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoftonline-p.com
 DOMAIN-SUFFIX,microsoftstore.com
+DOMAIN-SUFFIX,microsoftstore.com.cn
 DOMAIN-SUFFIX,msappproxy.net
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,acctcdn.msftauth.net
 DOMAIN-SUFFIX,logincdn.msftauth.net
 DOMAIN-SUFFIX,graph.microsoft.com
-DOMAIN-SUFFIX,c.s-microsoft.com
-DOMAIN-SUFFIX,store-images.s-microsoft.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,powerbi.com
 DOMAIN-SUFFIX,login.live.com
 DOMAIN-SUFFIX,login.windows.net
@@ -94,5 +95,7 @@ DOMAIN-SUFFIX,static2.sharepointonline.com
 DOMAIN-SUFFIX,cspv2.core.microsoft
 DOMAIN-SUFFIX,microsoftazuread-sso.com
 DOMAIN-SUFFIX,powerapps.com
+DOMAIN-SUFFIX,thesourcemediaassets.com
 DOMAIN-SUFFIX,settings-win.data.microsoft.com
 DOMAIN-SUFFIX,vortex.data.microsoft.com
+DOMAIN-SUFFIX,applicationinsights.azure.cn

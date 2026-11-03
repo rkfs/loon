@@ -193,6 +193,7 @@ IP-CIDR,221.231.47.28/32
 IP-CIDR,221.231.47.201/32
 IP-CIDR,221.231.47.221/32
 IP-CIDR,221.231.47.222/32
+IP-CIDR,221.231.83.68/32
 IP-CIDR,221.231.92.20/32
 IP-CIDR,221.231.92.59/32
 IP-CIDR,221.231.92.61/32
@@ -258,6 +259,7 @@ DOMAIN-SUFFIX,img.cainiao.com
 DOMAIN-SUFFIX,cnalbs.com
 DOMAIN-SUFFIX,alilogistics.com
 DOMAIN-SUFFIX,iconfont.cn
+DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,cloud.tencent.com
 DOMAIN-SUFFIX,cloud.tencent.cn
 DOMAIN-SUFFIX,tencentcloud.com
@@ -273,6 +275,11 @@ DOMAIN-SUFFIX,dscache.tencent-cloud.com
 DOMAIN-SUFFIX,datacenter.live.qcloud.com
 DOMAIN-SUFFIX,playvideo.qcloud.com
 DOMAIN-SUFFIX,tcb-api.tencentcloudapi.com
+DOMAIN-SUFFIX,tencentcs.cn
+DOMAIN-SUFFIX,woa.com
+DOMAIN-SUFFIX,qcloudimg.com
+DOMAIN-SUFFIX,voovmeeting.com
+DOMAIN-SUFFIX,meeting.tencent.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,share.weiyun.com
 DOMAIN-SUFFIX,api.weiyun.com
@@ -1776,6 +1783,7 @@ DOMAIN-SUFFIX,7x24cc.com
 DOMAIN-SUFFIX,dangdang.com
 DOMAIN-SUFFIX,ddimg.cn
 DOMAIN-SUFFIX,zhengdeedu.cn
+DOMAIN-SUFFIX,udesk.cn
 DOMAIN-SUFFIX,qqiwu.cn
 DOMAIN-SUFFIX,zets.cn
 DOMAIN-SUFFIX,feei.cn
