@@ -1201,3 +1201,6 @@ DOMAIN-SUFFIX,ixigua.com
 IP-CIDR,60.163.166.67/32
 IP-CIDR,60.169.2.213/32
 DOMAIN-SUFFIX,chinadaily.com.cn
+DOMAIN-SUFFIX,pdnews.cn
+DOMAIN-SUFFIX,shobserver.com
+DOMAIN-SUFFIX,rmny.tech
