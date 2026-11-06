@@ -10,9 +10,7 @@ DOMAIN-SUFFIX,securemetrics.apple.com
 DOMAIN-SUFFIX,metrics.apple.com
 DOMAIN-SUFFIX,news-events.apple.com
 DOMAIN-SUFFIX,xlog.snssdk.com
-DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,applog.uc.cn
-DOMAIN-SUFFIX,errlog.umeng.com
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,trace.aliyun.com
 DOMAIN-SUFFIX,spm.aliyun.com
@@ -330,5 +328,8 @@ DOMAIN-SUFFIX,tru.am
 DOMAIN-SUFFIX,rum-ingress-coralogix.com
 DOMAIN-SUFFIX,matomo.eolas-services.com
 DOMAIN-SUFFIX,cdn.useproof.com
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,errlog.umeng.com
 DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,mxpnl.com

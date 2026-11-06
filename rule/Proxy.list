@@ -350,6 +350,7 @@ DOMAIN-SUFFIX,sellercentral.amazon.sg
 DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
 DOMAIN-SUFFIX,images-eu.ssl-images-amazon.com
 DOMAIN-SUFFIX,images-fe.ssl-images-amazon.com
+DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,press.aboutamazon.com
 DOMAIN-SUFFIX,builder.aws.com
@@ -5038,6 +5039,16 @@ DOMAIN-SUFFIX,jibecdn.com
 DOMAIN-SUFFIX,icims.tools
 DOMAIN-SUFFIX,bmp.ovh
 DOMAIN-SUFFIX,nyu.edu
+DOMAIN-SUFFIX,docs.rw
+DOMAIN-SUFFIX,tlsfingerprint.io
+DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,happ.su
+DOMAIN-SUFFIX,blanc.link
+DOMAIN-SUFFIX,starchart.cc
+DOMAIN-SUFFIX,pierre.computer
+DOMAIN-SUFFIX,code.storage
+DOMAIN-SUFFIX,diffs.com
+DOMAIN-SUFFIX,diffshub.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
