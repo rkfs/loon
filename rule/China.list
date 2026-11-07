@@ -62,7 +62,9 @@ DOMAIN-SUFFIX,scu.edu.cn
 DOMAIN-SUFFIX,uestc.edu.cn
 DOMAIN-SUFFIX,cqu.edu.cn
 DOMAIN-SUFFIX,xjtu.edu.cn
+DOMAIN-SUFFIX,xjtudj.edu.cn
 DOMAIN-SUFFIX,nwpu.edu.cn
+DOMAIN-SUFFIX,nwpunec.net
 DOMAIN-SUFFIX,nwsuaf.edu.cn
 DOMAIN-SUFFIX,nwafu.edu.cn
 DOMAIN-SUFFIX,bjtu.edu.cn
@@ -527,6 +529,7 @@ DOMAIN-SUFFIX,img.baidu.com
 DOMAIN-SUFFIX,m.baeapps.com
 DOMAIN-SUFFIX,zhida.baidu.com
 DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,mipcdn.com
 DOMAIN-SUFFIX,16map.com
 DOMAIN-SUFFIX,api.16map.com
 DOMAIN-SUFFIX,static.16map.com
@@ -1818,6 +1821,13 @@ DOMAIN-SUFFIX,kuleiman.com
 DOMAIN-SUFFIX,720yun.com
 DOMAIN-SUFFIX,vsbclub.com
 DOMAIN-SUFFIX,xinheweb.com
+DOMAIN-SUFFIX,aixiaoduo.com
+DOMAIN-SUFFIX,sencdn.com
+DOMAIN-SUFFIX,vipslib.com
+DOMAIN-SUFFIX,ai.vipslib.com
+DOMAIN-SUFFIX,5any.com
+DOMAIN-SUFFIX,cqu.cqbys.com
+DOMAIN-SUFFIX,cnmrms.com
 DOMAIN-SUFFIX,qqiwu.cn
 DOMAIN-SUFFIX,zets.cn
 DOMAIN-SUFFIX,feei.cn
