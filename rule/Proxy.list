@@ -2274,6 +2274,7 @@ DOMAIN-SUFFIX,v2ex.net
 DOMAIN-SUFFIX,forum.v2ex.com
 DOMAIN-SUFFIX,cdn.v2ex.com
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,cdn3.ldstatic.com
 DOMAIN-SUFFIX,hostloc.com
 IP-CIDR,103.181.165.251/32
 DOMAIN-SUFFIX,downloads.mitmproxy.org
@@ -4999,8 +5000,9 @@ DOMAIN-SUFFIX,link.springer.com
 DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,reaxys.com
 DOMAIN-SUFFIX,scopus.com
-DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,incites.thomsonreuters.com
 DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,pubs.acs.org
 DOMAIN-SUFFIX,tandfonline.com
@@ -5013,9 +5015,6 @@ DOMAIN-SUFFIX,degruyterbrill.com
 DOMAIN-SUFFIX,jove.com
 DOMAIN-SUFFIX,academic.oup.com
 DOMAIN-SUFFIX,westlaw.com
-DOMAIN-SUFFIX,esi.clarivate.com
-DOMAIN-SUFFIX,incites.clarivate.com
-DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,aip.org
 DOMAIN-SUFFIX,netcatty.app
 DOMAIN-SUFFIX,cist.bntu.by
@@ -5037,6 +5036,9 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,sciencedirectassets.com
 DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,meiqia.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,zbib.org
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,blog.skk.moe
