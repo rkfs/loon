@@ -77,8 +77,13 @@ DOMAIN-SUFFIX,cupl.edu.cn
 DOMAIN-SUFFIX,bsu.edu.cn
 DOMAIN-SUFFIX,hebut.edu.cn
 DOMAIN-SUFFIX,imu.edu.cn
+DOMAIN-SUFFIX,moocs.imu.edu.cn
+DOMAIN-SUFFIX,nmbys.cn
 DOMAIN-SUFFIX,tyut.edu.cn
 DOMAIN-SUFFIX,neau.edu.cn
+DOMAIN-SUFFIX,neauce.com
+DOMAIN-SUFFIX,qikanzhongxin.neau.edu.cn
+DOMAIN-SUFFIX,gjjl.neau.edu.cn
 DOMAIN-SUFFIX,smmu.edu.cn
 DOMAIN-SUFFIX,shisu.edu.cn
 DOMAIN-SUFFIX,hhu.edu.cn
@@ -1819,8 +1824,8 @@ DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,lib.uibe.edu.cn
 DOMAIN-SUFFIX,clarivate.com.cn
 DOMAIN-SUFFIX,pqdtcn.com
-DOMAIN-SUFFIX,answer.eol.cn
 DOMAIN-SUFFIX,eol.cn
+DOMAIN-SUFFIX,answer.eol.cn
 DOMAIN-SUFFIX,youzy.cn
 DOMAIN-SUFFIX,360eol.com
 DOMAIN-SUFFIX,edudata.cn
@@ -1866,6 +1871,13 @@ DOMAIN-SUFFIX,csss.cn
 DOMAIN-SUFFIX,sport.org.cn
 DOMAIN-SUFFIX,chinasfa.net
 DOMAIN-SUFFIX,beijingadl.org.cn
+DOMAIN-SUFFIX,founderss.cn
+DOMAIN-SUFFIX,17gz.org
+DOMAIN-SUFFIX,17wanxiao.com
+DOMAIN-SUFFIX,gaokao.cn
+DOMAIN-SUFFIX,blackboardchina.cn
+DOMAIN-SUFFIX,zhetao.com
+DOMAIN-SUFFIX,91job.org.cn
 DOMAIN-SUFFIX,qqiwu.cn
 DOMAIN-SUFFIX,zets.cn
 DOMAIN-SUFFIX,feei.cn
