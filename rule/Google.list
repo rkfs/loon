@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,ohttp-relay-safebrowsing-chrome.google.fastly-edge.com
 DOMAIN-SUFFIX,merchants.google.com
 DOMAIN-SUFFIX,merchant-center.googleapis.com
 DOMAIN-SUFFIX,shoppingcontent.googleapis.com
+DOMAIN-SUFFIX,g.page
 DOMAIN-SUFFIX,cse.google.com
 DOMAIN-SUFFIX,cse.googleusercontent.com
 DOMAIN-SUFFIX,programmablesearchengine.google.com

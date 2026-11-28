@@ -326,6 +326,8 @@ DOMAIN-SUFFIX,cdn.whatsapp.net
 DOMAIN-SUFFIX,mmg.whatsapp.net
 DOMAIN-SUFFIX,web.whatsapp.com
 DOMAIN-SUFFIX,chat.whatsapp.com
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsappbusiness.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdninstagram.net
@@ -451,6 +453,7 @@ DOMAIN-SUFFIX,about.fb.com
 DOMAIN-SUFFIX,newsroom.fb.com
 DOMAIN-SUFFIX,research.fb.com
 DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,metacareers.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,msngr.com
 DOMAIN-SUFFIX,m.me
@@ -5065,7 +5068,17 @@ DOMAIN-SUFFIX,longtailvideo.com
 DOMAIN-SUFFIX,duke.edu
 DOMAIN-SUFFIX,launchgiftcards.com
 DOMAIN-SUFFIX,anyns.io
+DOMAIN-SUFFIX,shgcdn2.com
+DOMAIN-SUFFIX,bigcommerce.com
+DOMAIN-SUFFIX,ipstack.com
+DOMAIN-SUFFIX,techsembly.com
+DOMAIN-SUFFIX,azds.com
+DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,aman.com
+DOMAIN-SUFFIX,amantokyo.com
+DOMAIN-SUFFIX,amanatsea.com
+DOMAIN-SUFFIX,atma.com
+DOMAIN-SUFFIX,janu.com
 DOMAIN-SUFFIX,capellahotels.com
 DOMAIN-SUFFIX,mandarinoriental.com
 DOMAIN-SUFFIX,peninsula.com
